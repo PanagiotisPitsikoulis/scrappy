@@ -1,0 +1,2403 @@
+[
+  {
+    "id": "6608",
+    "text": "Σε ποια περιοχή βρίσκεται το νέο Μουσείο της Ακρόπολης;",
+    "options": [
+      {
+        "text": "Μακρυγιάννη",
+        "isCorrect": true
+      },
+      {
+        "text": "Πλάκα",
+        "isCorrect": false
+      },
+      {
+        "text": "Θησείο",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6609",
+    "text": "Πώς αλλιώς ονομάζεται η περιοχή Αχαρναί;",
+    "options": [
+      {
+        "text": "Πετρούπολη",
+        "isCorrect": false
+      },
+      {
+        "text": "Μενίδι",
+        "isCorrect": true
+      },
+      {
+        "text": "Νέα Λιόσια",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6610",
+    "text": "Που βρίσκεται το Σικιαρίδειο Ίδρυμα;",
+    "options": [
+      {
+        "text": "Στη Κηφισιά",
+        "isCorrect": false
+      },
+      {
+        "text": "Στη Νέα Πεντέλη",
+        "isCorrect": false
+      },
+      {
+        "text": "Στο Μαρούσι",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6611",
+    "text": "Που βρίσκεται το Αεροδρόμιο Ελ. Βενιζέλος;",
+    "options": [
+      {
+        "text": "Στη Λ. Μαραθώνος",
+        "isCorrect": false
+      },
+      {
+        "text": "Στη Λ. Κορωπίου - Μαρκοπούλου",
+        "isCorrect": false
+      },
+      {
+        "text": "Στο τέρμα της Αττικής Οδού (Σπάτα)",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6612",
+    "text": "Που βρίσκεται το Τμήμα Τουριστικής Αστυνομίας Βορειοανατολικής Αττικής;",
+    "options": [
+      {
+        "text": "Στην Εκάλη",
+        "isCorrect": false
+      },
+      {
+        "text": "Στο Μαρούσι",
+        "isCorrect": false
+      },
+      {
+        "text": "Στην Κηφισιά",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6613",
+    "text": "Στην οδό Πειραιώς βρίσκονται:",
+    "options": [
+      {
+        "text": "Το παλιό κτίριο του Μουσείου Μπενάκη",
+        "isCorrect": false
+      },
+      {
+        "text": "Η Στέγη Γραμμάτων & Τεχνών",
+        "isCorrect": false
+      },
+      {
+        "text": "Το «Ίδρυμα Μείζονος Ελληνισμού» και το Ίδρυμα Μιχ. Κακογιάννη",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6614",
+    "text": "Ποιο μουσείο βρίσκεται στην οδό Νεοφύτου Δούκα, πλησίον της οδού Βασ. Σοφίας;",
+    "options": [
+      {
+        "text": "Βυζαντινό Μουσείο",
+        "isCorrect": false
+      },
+      {
+        "text": "Μουσείο Κυκλαδικής Τέχνης",
+        "isCorrect": true
+      },
+      {
+        "text": "Μουσείο Μπενάκη",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6615",
+    "text": "Προκειμένου να πάμε στο λιμάνι της Ραφήνας ακολουθούμε:",
+    "options": [
+      {
+        "text": "Τη Λ. Σχοινιά",
+        "isCorrect": false
+      },
+      {
+        "text": "Τη Λ. Λαυρίου",
+        "isCorrect": false
+      },
+      {
+        "text": "Τη Λ. Μαραθώνα",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6616",
+    "text": "Ποια κεντρική λεωφόρος διασχίζει τη Ν. Σμύρνη;",
+    "options": [
+      {
+        "text": "Η Υμηττού",
+        "isCorrect": false
+      },
+      {
+        "text": "Η Ελευθερίου Βενιζέλου",
+        "isCorrect": true
+      },
+      {
+        "text": "Η Ούλωφ Πάλμε",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6617",
+    "text": "Που   βρίσκεται   ο   αποθηκευτικός   χώρος   του   ΟΔΔΥ   (Οργανισμός   Διαχείρισης Δημόσιου Υλικού Α.Ε) ;",
+    "options": [
+      {
+        "text": "Στα Μέγαρα",
+        "isCorrect": false
+      },
+      {
+        "text": "Στη Μαγουλέζα",
+        "isCorrect": true
+      },
+      {
+        "text": "Στην Ελευσίνα",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6618",
+    "text": "Σε ποια οδό βρίσκεται το Εθνικό Θέατρο (κεντρικό κτίριο);",
+    "options": [
+      {
+        "text": "Στην Πανεπιστημίου",
+        "isCorrect": false
+      },
+      {
+        "text": "Στην Αγίου Κωνσταντίνου",
+        "isCorrect": true
+      },
+      {
+        "text": "Στην Πειραιώς",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown",
+    "explanationImage": "https://www.drivepoint.gr/images/explanations/.gif"
+  },
+  {
+    "id": "6619",
+    "text": "Σε ποια Λεωφόρο βρίσκεται το Γενικό Νοσοκομείο Ασκληπιείο Βούλας;",
+    "options": [
+      {
+        "text": "Ποσειδώνος",
+        "isCorrect": false
+      },
+      {
+        "text": "Κωνσταντίνου Καραμανλή",
+        "isCorrect": false
+      },
+      {
+        "text": "Βασιλέως Παύλου",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6620",
+    "text": "Που βρίσκεται το Μέγαρο του Οργανισμού Λιμένος Πειραιώς (ΟΛΠ);",
+    "options": [
+      {
+        "text": "Στην Ακτή Κουμουνδούρου",
+        "isCorrect": false
+      },
+      {
+        "text": "Στην Ακτή Μουτσοπούλου",
+        "isCorrect": false
+      },
+      {
+        "text": "Στην Ακτή Μιαούλη",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6621",
+    "text": "Στη Λ. Συγγρού βρίσκονται:",
+    "options": [
+      {
+        "text": "Το Ευγενίδιο Ίδρυμα - Πλανητάριο και το νέο κτίριο του Μουσείου Μπενάκη",
+        "isCorrect": false
+      },
+      {
+        "text": "Η Στέγη Γραμμάτων & Τεχνών και το νέο κτίριο του Μουσείου Μπενάκη",
+        "isCorrect": false
+      },
+      {
+        "text": "Η Στέγη Γραμμάτων & Τεχνών και το Ευγενίδιο Ίδρυμα- Πλανητάριο",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6622",
+    "text": "Πού βρίσκεται το Ολυμπιακό Κωπηλατοδρόμιο;",
+    "options": [
+      {
+        "text": "Στο Σχοινιά",
+        "isCorrect": true
+      },
+      {
+        "text": "Στον Αγ. Κοσμά στο Ελληνικό",
+        "isCorrect": false
+      },
+      {
+        "text": "Στο Φάληρο",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6623",
+    "text": "Το Νοσοκομείο «Θριάσιο & Λάτσιο Κέντρο εγκαυμάτων» βρίσκεται",
+    "options": [
+      {
+        "text": "Επί της επαρχιακής οδού Ελευσίνας - Δερβενοχωρίων",
+        "isCorrect": true
+      },
+      {
+        "text": "Επί της παλαιάς Εθνικής Οδού Αθηνών Θηβών (Π.Ε.Ο.Α.Θ.)",
+        "isCorrect": false
+      },
+      {
+        "text": "Επί της νέας Εθνικής Οδού Αθηνών - Κορίνθου (Ν.Ε.Ο.Α.Κ.)",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6624",
+    "text": "Που βρίσκεται η Γλυπτοθήκη;",
+    "options": [
+      {
+        "text": "Στο Άλσος Στρατού στο Γουδί",
+        "isCorrect": true
+      },
+      {
+        "text": "Στη συμβολή των οδών Βασ. Σοφίας & Βασ. Κωνσταντίνου",
+        "isCorrect": false
+      },
+      {
+        "text": "Στη Λ. Συγγρού",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6625",
+    "text": "Η Εθνική Λυρική Σκηνή βρίσκεται στην οδό:",
+    "options": [
+      {
+        "text": "Αμερικής",
+        "isCorrect": false
+      },
+      {
+        "text": "Πανεπιστημίου",
+        "isCorrect": false
+      },
+      {
+        "text": "Ακαδημίας",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6626",
+    "text": "Ποιες λεωφόροι βρίσκονται πλησίον του Γενικού Νοσοκομείου Πειραιά (Νικαίας) «Άγιος Παντελεήμονας»;",
+    "options": [
+      {
+        "text": "28ης Οκτωβρίου και Πέτρου Ράλλη",
+        "isCorrect": false
+      },
+      {
+        "text": "Γρ. Λαμπράκη και Π. Τσαλδάρη",
+        "isCorrect": false
+      },
+      {
+        "text": "Θηβών και Πέτρου Ράλλη",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6627",
+    "text": "Το νοσοκομείο «Αλεξάνδρα» βρίσκεται στην οδό:",
+    "options": [
+      {
+        "text": "Παπαδιαμαντοπούλου",
+        "isCorrect": false
+      },
+      {
+        "text": "Αλεξάνδρας",
+        "isCorrect": false
+      },
+      {
+        "text": "Βασ. Σοφίας και Κ. Λούρου",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6628",
+    "text": "Που βρίσκεται το Δημαρχείο Χαϊδαρίου;",
+    "options": [
+      {
+        "text": "Στην οδό Αγωνιστών Στρατοπέδου Χαϊδαρίου",
+        "isCorrect": false
+      },
+      {
+        "text": "Στη Λεωφ. Αθηνών",
+        "isCorrect": true
+      },
+      {
+        "text": "Στην οδό Φαβιέρου",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6629",
+    "text": "Σε ποια περιοχή βρίσκεται το Μουσείο Ισλαμικής Τέχνης;",
+    "options": [
+      {
+        "text": "Στην Ακαδημία Πλάτωνος",
+        "isCorrect": false
+      },
+      {
+        "text": "Στο Βοτανικό",
+        "isCorrect": false
+      },
+      {
+        "text": "Στον Κεραμεικό",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6630",
+    "text": "Πού βρίσκεται το κεντρικό κτίριο της Περιφέρειας Αττικής;",
+    "options": [
+      {
+        "text": "Στη Λ. Συγγρού",
+        "isCorrect": true
+      },
+      {
+        "text": "Στη Λ. Καλλιρρόης",
+        "isCorrect": false
+      },
+      {
+        "text": "Στην οδό Ξενοφώντος",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6631",
+    "text": "Ο λόφος Σαλίγγαρου βρίσκεται:",
+    "options": [
+      {
+        "text": "Στη Ν. Κηφισιά",
+        "isCorrect": false
+      },
+      {
+        "text": "Στα Βριλήσσια",
+        "isCorrect": false
+      },
+      {
+        "text": "Στα Μελίσσια",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6632",
+    "text": "Στην περιοχή Γουδί βρίσκονται τα νοσοκομεία:",
+    "options": [
+      {
+        "text": "«Παίδων - Αγλ. Κυριακού», «Παίδων - Αγ. Σοφία» και «Λαϊκό» Νοσοκομείο",
+        "isCorrect": true
+      },
+      {
+        "text": "«Παίδων - Αγλ. Κυριακού», «Ερυθρός Σταυρός» και «Λαϊκό» Νοσοκομείο",
+        "isCorrect": false
+      },
+      {
+        "text": "«Αγ. Σάββας» και «Παίδων - Αγ. Κυριακού»",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6633",
+    "text": "Σε ποια περιοχή βρίσκεται το θέατρο Πέτρας;",
+    "options": [
+      {
+        "text": "Κηπούπολη",
+        "isCorrect": false
+      },
+      {
+        "text": "Πετρούπολη",
+        "isCorrect": true
+      },
+      {
+        "text": "Καματερό",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6634",
+    "text": "Σε ποια περιοχή βρίσκεται ο πολυχώρος Αθήναις:",
+    "options": [
+      {
+        "text": "Στο Βοτανικό",
+        "isCorrect": true
+      },
+      {
+        "text": "Στο Θησείο",
+        "isCorrect": false
+      },
+      {
+        "text": "Στο Μεταξουργείο",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6635",
+    "text": "Ποιο είναι το πλησιέστερο σημείο αποβίβασης για τον αρχαιολογικό χώρο της Ακρόπολης;",
+    "options": [
+      {
+        "text": "Στο τέλος της οδού Αποστόλου Παύλου",
+        "isCorrect": false
+      },
+      {
+        "text": "Στην οδό Μακρυγιάννη",
+        "isCorrect": false
+      },
+      {
+        "text": "Στο τέλος της οδού Ροβέρτου Γκάλλι",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6636",
+    "text": "Που βρίσκεται το Μουσείο σύγχρονης Τέχνης -ΒΟΡΡΕ'",
+    "options": [
+      {
+        "text": "Γλυκά Νερά",
+        "isCorrect": false
+      },
+      {
+        "text": "Παιανία",
+        "isCorrect": true
+      },
+      {
+        "text": "Παλλήνη",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6637",
+    "text": "Ποιο είναι το πλησιέστερο σημείο αποβίβασης για τον αρχαιολογικό χώρο του Κεραμεικού;",
+    "options": [
+      {
+        "text": "Στην Πλατεία Μοναστηρακίου",
+        "isCorrect": false
+      },
+      {
+        "text": "Στο τέλος της οδού Ερμού, στο Θησείο",
+        "isCorrect": true
+      },
+      {
+        "text": "Η συμβολή των οδών Πειραιώς και Ιεράς Οδού",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6638",
+    "text": "Ποιο από τα παρακάτω νοσοκομεία, ΔΕΝ βρίσκεται στην οδό Βασ. Σοφίας;",
+    "options": [
+      {
+        "text": "Το «Αιγινήτειο»",
+        "isCorrect": false
+      },
+      {
+        "text": "Το «Έλενα Βενιζέλου»",
+        "isCorrect": true
+      },
+      {
+        "text": "Το «Ιπποκράτειο»",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6639",
+    "text": "Που βρίσκεται το ξενοδοχείο \"ΡRΕSΙDΕΝΤ\"",
+    "options": [
+      {
+        "text": "Στη Λεωφ. Συγγρού",
+        "isCorrect": false
+      },
+      {
+        "text": "Στη Λεωφ. Μεσογείων",
+        "isCorrect": false
+      },
+      {
+        "text": "Στη Λεωφ. Κηφισίας",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6640",
+    "text": "Σε ποια κεντρική διασταύρωση βρίσκεται ο ναός της Ιεράς Μητροπόλεως Πειραιά - Αγ. Τριάδος;",
+    "options": [
+      {
+        "text": "Βασ. Γεωργίου & Εθνικής Αντιστάσεως",
+        "isCorrect": true
+      },
+      {
+        "text": "Ακτή Μιαούλη & Σωτήρος Διός",
+        "isCorrect": false
+      },
+      {
+        "text": "Γούναρη & Ακτή Ποσειδώνος",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6641",
+    "text": "Ποιος κεντρικός δρόμος διασχίζει το Βύρωνα;",
+    "options": [
+      {
+        "text": "Η οδός Γρηγορίου Αυξεντίου",
+        "isCorrect": false
+      },
+      {
+        "text": "Η οδός Εθνικής Αντιστάσεως",
+        "isCorrect": false
+      },
+      {
+        "text": "Η οδός Φορμίωνος",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6642",
+    "text": "Πώς αλλιώς ονομάζεται η Πλατεία Κουμουνδούρου στην Αθήνα;",
+    "options": [
+      {
+        "text": "Πλατεία Ελευθερίας",
+        "isCorrect": true
+      },
+      {
+        "text": "Πλατεία Κοτζιά",
+        "isCorrect": false
+      },
+      {
+        "text": "Πλατεία Κολοκοτρώνη",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6643",
+    "text": "Το μαιευτήριο «ΡΕΑ» βρίσκεται στη λεωφόρο:",
+    "options": [
+      {
+        "text": "Κηφισίας",
+        "isCorrect": false
+      },
+      {
+        "text": "Μεσογείων",
+        "isCorrect": false
+      },
+      {
+        "text": "Συγγρού",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6644",
+    "text": "Μέσω ποιας λεωφόρου πηγαίνουμε στον αρχαιολογικό χώρο «Τύμβος Μαραθώνα»",
+    "options": [
+      {
+        "text": "Λ. Μαραθώνος",
+        "isCorrect": true
+      },
+      {
+        "text": "Λ. Σχοινιά",
+        "isCorrect": false
+      },
+      {
+        "text": "Λ. Σουλίου",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6645",
+    "text": "Ποια οδός οδηγεί από τη λεωφόρο Αλεξάνδρας στα δικαστήρια Ευελπίδων;",
+    "options": [
+      {
+        "text": "Βράιλα",
+        "isCorrect": false
+      },
+      {
+        "text": "Κων/νου Παπαρρηγοπούλου",
+        "isCorrect": false
+      },
+      {
+        "text": "Ανδρέα Μουστοξύδη",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6646",
+    "text": "Πώς αλλιώς ονομάζεται ο Δήμος Ίλιον:",
+    "options": [
+      {
+        "text": "Μενίδι",
+        "isCorrect": false
+      },
+      {
+        "text": "Άνω Λιόσια",
+        "isCorrect": false
+      },
+      {
+        "text": "Νέα Λιόσια",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6647",
+    "text": "Ποια από τα παρακάτω νοσοκομεία βρίσκονται μεταξύ των οδών Μιχαλακοπούλου & Βασ. Σοφίας;",
+    "options": [
+      {
+        "text": "«Αιγινήτειο», «ΝΙΜΤΣ», «Ιπποκράτειο»",
+        "isCorrect": false
+      },
+      {
+        "text": "«Ιπποκράτειο», «Αιγινήτειο», «Αλεξάνδρα»",
+        "isCorrect": true
+      },
+      {
+        "text": "«Ερυθρός Σταυρός», «Έλενα Βενιζέλου», «Αιγινήτειο»",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6648",
+    "text": "Σε ποια λεωφόρο βρίσκεται το 251 Γενικό Νοσοκομείο Αεροπορίας;",
+    "options": [
+      {
+        "text": "Π. Κανελλοπούλου",
+        "isCorrect": true
+      },
+      {
+        "text": "Μεσογείων",
+        "isCorrect": false
+      },
+      {
+        "text": "Βασ. Σοφίας",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6649",
+    "text": "Το ΝΝΑ, (Ναυτικό Νοσοκομείο Αθηνών) βρίσκεται:",
+    "options": [
+      {
+        "text": "Στην οδό Δεινοκράτους",
+        "isCorrect": true
+      },
+      {
+        "text": "Στη Λ. Μεσογείων",
+        "isCorrect": false
+      },
+      {
+        "text": "Στη Λ. Βασ. Σοφίας",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6650",
+    "text": "Το κεντρικό κτίριο της Περιφερειακής Ενότητας Δυτικής Αττικής βρίσκεται:",
+    "options": [
+      {
+        "text": "Στον Ασπρόπυργο",
+        "isCorrect": false
+      },
+      {
+        "text": "Στην Ελευσίνα",
+        "isCorrect": true
+      },
+      {
+        "text": "Στα Άνω Λιόσια",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6651",
+    "text": "Ποια οδός δεν καταλήγει στην πλατεία Κυψέλης;",
+    "options": [
+      {
+        "text": "Η οδός Κερκύρας",
+        "isCorrect": true
+      },
+      {
+        "text": "Η οδός Βελβενδού",
+        "isCorrect": false
+      },
+      {
+        "text": "Η οδός Κυψέλης",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6652",
+    "text": "Πού βρίσκεται το Υπουργείο Πολιτισμού στην Αθήνα;",
+    "options": [
+      {
+        "text": "Στην οδό Νίκης",
+        "isCorrect": false
+      },
+      {
+        "text": "Στην οδό Πατησίων",
+        "isCorrect": false
+      },
+      {
+        "text": "Στην οδό Μπουμπουλίνας",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6653",
+    "text": "Ποιος είναι ο πλησιέστερος σταθμός του ΜΕΤΡΟ στο νοσοκομείο ΑΤΤΙΚΟΝ;",
+    "options": [
+      {
+        "text": "Αγ. Μαρίνα",
+        "isCorrect": false
+      },
+      {
+        "text": "Αιγάλεω",
+        "isCorrect": false
+      },
+      {
+        "text": "Ανθούπολη",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6654",
+    "text": "Ποια μουσεία βρίσκονται στην οδό Βασ. Σοφίας;",
+    "options": [
+      {
+        "text": "Νομισματικό Μουσείο, Βυζαντινό Μουσείο",
+        "isCorrect": false
+      },
+      {
+        "text": "Μουσείο Μπενάκη, Κυκλαδικής Τέχνης",
+        "isCorrect": true
+      },
+      {
+        "text": "Βυζαντινό Μουσείο, Εθνικό Αρχαιολογικό",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6655",
+    "text": "Πού βρίσκεται η περιοχή Ζοφριά;",
+    "options": [
+      {
+        "text": "Στο Ίλιον",
+        "isCorrect": false
+      },
+      {
+        "text": "Στα Νέα Λιόσια",
+        "isCorrect": false
+      },
+      {
+        "text": "Στα Άνω Λιόσια",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6656",
+    "text": "Ποιες κεντρικές λεωφόροι περικλείουν το Πάρκο Περιβαλλοντικής Ευαισθησίας «Αντώνης Τρίτσης»;",
+    "options": [
+      {
+        "text": "Λ. Δημοκρατίας - Λ. Καραμανλή",
+        "isCorrect": false
+      },
+      {
+        "text": "Λ. Δημοκρατίας - Λ. Χασιάς",
+        "isCorrect": true
+      },
+      {
+        "text": "Λ. Πετρουπόλεως - Λ. Φυλής",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6657",
+    "text": "Που βρίσκεται η αφετηρία του Προαστιακού Σταθμού Πειραιά;",
+    "options": [
+      {
+        "text": "Κόνωνος & Ακτή Καλλιμασιώτη",
+        "isCorrect": true
+      },
+      {
+        "text": "Ακτή Θεμιστοκλέους & Κλεισόβης",
+        "isCorrect": false
+      },
+      {
+        "text": "Ακτή Μιαούλη & 2ας Μεραρχίας",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6658",
+    "text": "Πώς αλλιώς ονομάζεται η οδός Πατησίων στην Αθήνα;",
+    "options": [
+      {
+        "text": "25ης Μαρτίου",
+        "isCorrect": false
+      },
+      {
+        "text": "28ης Οκτωβρίου",
+        "isCorrect": true
+      },
+      {
+        "text": "Ελευθερίου Βενιζέλου",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6659",
+    "text": "Το Εκθεσιακό Κέντρο Περιστερίου βρίσκεται:",
+    "options": [
+      {
+        "text": "Στην οδό Δωδεκανήσου - Σαρανταπόρου",
+        "isCorrect": false
+      },
+      {
+        "text": "Στην οδό Θηβών - Αναπαύσεως",
+        "isCorrect": false
+      },
+      {
+        "text": "Στην οδό Δωδεκανήσου - Αγ. Βασιλείου",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6660",
+    "text": "Ποιο από τα παρακάτω νοσοκομεία ΔΕΝ βρίσκεται στην οδό Μεσογείων;",
+    "options": [
+      {
+        "text": "Το 251 Γενικό Νοσοκομείο Αεροπορίας",
+        "isCorrect": true
+      },
+      {
+        "text": "Το «Ερρίκος Ντυνάν»",
+        "isCorrect": false
+      },
+      {
+        "text": "Το «Σωτηρία»",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6661",
+    "text": "Που βρίσκεται η περιοχή «Ραδιοφωνία»;",
+    "options": [
+      {
+        "text": "Στο Ίλιον",
+        "isCorrect": true
+      },
+      {
+        "text": "Στο Ζεφύρι",
+        "isCorrect": false
+      },
+      {
+        "text": "Στο Καματερό",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6662",
+    "text": "Σε ποια διασταύρωση βρίσκεται το Δημοτικό Θέατρο Πειραιά:",
+    "options": [
+      {
+        "text": "Εθνικής Αντιστάσεως και Βασ. Γεωργίου",
+        "isCorrect": false
+      },
+      {
+        "text": "Ηρώων Πολυτεχνείου & Βασ. Γεωργίου",
+        "isCorrect": true
+      },
+      {
+        "text": "Γρηγορίου Λαμπράκη & Βασ. Γεωργίου",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6663",
+    "text": "Πού βρίσκεται η περιοχή Άσπρα Χώματα στη Δυτική Αθήνα;",
+    "options": [
+      {
+        "text": "Στο Περιστέρι",
+        "isCorrect": true
+      },
+      {
+        "text": "Στο Χαϊδάρι",
+        "isCorrect": false
+      },
+      {
+        "text": "Στο Καματερό",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6664",
+    "text": "Πού βρίσκεται το Κοιμητήριο Περιστερίου;",
+    "options": [
+      {
+        "text": "Στη Λ.   Λένορμαν",
+        "isCorrect": false
+      },
+      {
+        "text": "Στη Λ. Αναπαύσεως",
+        "isCorrect": true
+      },
+      {
+        "text": "Στη Λ. Δωδεκανήσου",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6665",
+    "text": "Ποια λεωφόρος συνδέει το Δήμο Αθηναίων με το Δήμο Περιστερίου;",
+    "options": [
+      {
+        "text": "Η Λ. Δυρραχίου",
+        "isCorrect": false
+      },
+      {
+        "text": "Η Λ. Καβάλας",
+        "isCorrect": false
+      },
+      {
+        "text": "Η Λ. Λένορμαν",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6666",
+    "text": "Που βρίσκεται η περιοχή Σαφράμπολη;",
+    "options": [
+      {
+        "text": "Νέα Ιωνία",
+        "isCorrect": true
+      },
+      {
+        "text": "Νέο Ηράκλειο",
+        "isCorrect": false
+      },
+      {
+        "text": "Παλαιό Ηράκλειο",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6667",
+    "text": "Που βρίσκεται το Χαροκόπειο Πανεπιστήμιο;",
+    "options": [
+      {
+        "text": "Στο Δήμο Αιγάλεω",
+        "isCorrect": false
+      },
+      {
+        "text": "Στο Δήμο Καλλιθέας",
+        "isCorrect": true
+      },
+      {
+        "text": "Στο Δήμο Παπάγου Χολαργού",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6668",
+    "text": "Ποια πλατεία βρίσκεται επί της οδού 28ης Οκτωβρίου στην Αθήνα;",
+    "options": [
+      {
+        "text": "Πλατεία Κοτζιά",
+        "isCorrect": false
+      },
+      {
+        "text": "Πλατεία Συντάγματος",
+        "isCorrect": false
+      },
+      {
+        "text": "Πλατεία Αιγύπτου",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6669",
+    "text": "Ποια λεωφόρος συνδέει το Δήμο Αθηναίων με την Πλατεία Μπουρναζίου (Κων/λεως);",
+    "options": [
+      {
+        "text": "Η Λ. Δυρραχίου",
+        "isCorrect": true
+      },
+      {
+        "text": "Η Λ. Καβάλας",
+        "isCorrect": false
+      },
+      {
+        "text": "Η Λ. Λένορμαν",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6670",
+    "text": "Ποια οδός στο Μπουρνάζι (Περιστέρι) είναι ήπιας κυκλοφορίας;",
+    "options": [
+      {
+        "text": "Η οδός Αρκαδίας",
+        "isCorrect": false
+      },
+      {
+        "text": "Η οδός Κύπρου",
+        "isCorrect": false
+      },
+      {
+        "text": "Η οδός Αγίας Παρασκευής",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6671",
+    "text": "Που βρίσκεται το Κατράκειο Θέατρο;",
+    "options": [
+      {
+        "text": "Στον Κορυδαλλό",
+        "isCorrect": false
+      },
+      {
+        "text": "Στη Νίκαια",
+        "isCorrect": true
+      },
+      {
+        "text": "Στον Πειραιά",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6672",
+    "text": "Ποιο θέατρο βρίσκεται στην οδό Βουκουρεστίου;",
+    "options": [
+      {
+        "text": "Το θέατρο Τέχνης - Καρόλου Κουν",
+        "isCorrect": false
+      },
+      {
+        "text": "Το θέατρο ΠΑΛΛΑΣ",
+        "isCorrect": true
+      },
+      {
+        "text": "Το θέατρο ΑΛΙΚΗ",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6673",
+    "text": "Σε ποιο κόμβο της Αττικής Οδού βρίσκονται πλησιέστερα οι εγκαταστάσεις του Antenna TV ;",
+    "options": [
+      {
+        "text": "Κηφισίας",
+        "isCorrect": true
+      },
+      {
+        "text": "Δουκίσης Πλακεντίας",
+        "isCorrect": false
+      },
+      {
+        "text": "Ηρακλείου",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6674",
+    "text": "Το Κοιμητήριο Αγίων Αναργύρων βρίσκεται:",
+    "options": [
+      {
+        "text": "Επί της Λ. Καραμανλή",
+        "isCorrect": false
+      },
+      {
+        "text": "Επί της Λ. Φυλής",
+        "isCorrect": false
+      },
+      {
+        "text": "Επί της Λ. Δημοκρατίας",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6675",
+    "text": "Που βρίσκεται το κεντρικό κτίριο του Πανεπιστημίου Πειραιά (ΠΑ.ΠΕΙ);",
+    "options": [
+      {
+        "text": "Υψηλάντου & 2ας Μεραρχίας",
+        "isCorrect": false
+      },
+      {
+        "text": "Κουντουριώτου & Τσαμαδού",
+        "isCorrect": false
+      },
+      {
+        "text": "Καραολή & Δημητρίου 80",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6676",
+    "text": "Που βρίσκεται η γέφυρα Καλυφτάκη;",
+    "options": [
+      {
+        "text": "Κηφισιά",
+        "isCorrect": true
+      },
+      {
+        "text": "Μεταμόρφωση",
+        "isCorrect": false
+      },
+      {
+        "text": "Ηράκλειο",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6677",
+    "text": "Σε ποια κεντρική Λεωφόρο βρίσκεται το Γηροκομείο Πειραιά;",
+    "options": [
+      {
+        "text": "Στην Ηρώων Πολυτεχνείου",
+        "isCorrect": false
+      },
+      {
+        "text": "Στη Γρηγορίου Λαμπράκη",
+        "isCorrect": true
+      },
+      {
+        "text": "Στη Γούναρη",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6678",
+    "text": "Που βρίσκεται η περιοχή Ριζάρειος;",
+    "options": [
+      {
+        "text": "Στο Ψυχικό",
+        "isCorrect": false
+      },
+      {
+        "text": "Στο Χαλάνδρι",
+        "isCorrect": true
+      },
+      {
+        "text": "Στη Κηφισιά",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6679",
+    "text": "Πού βρίσκονται οι εγκαταστάσεις του Εθνικού Κέντρου Νεότητας Αγ. Κοσμά;",
+    "options": [
+      {
+        "text": "Στη Λ. Ποσειδώνος, ύψος Λίμνης Βουλιαγμένης",
+        "isCorrect": false
+      },
+      {
+        "text": "Στη Λ. Ποσειδώνος, απέναντι από πρώην Δυτικό Αεροδρόμιο",
+        "isCorrect": true
+      },
+      {
+        "text": "Στη Γλυφάδα",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6680",
+    "text": "Πώς αλλιώς ονομάζεται η Πλατεία Κοτζιά στην Αθήνα;",
+    "options": [
+      {
+        "text": "Ηρώων Πολυτεχνείου",
+        "isCorrect": false
+      },
+      {
+        "text": "Εθνικής Αντίστασης",
+        "isCorrect": true
+      },
+      {
+        "text": "Ελευθερίου Βενιζέλου",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6681",
+    "text": "Πού βρίσκεται το Κέντρο Εκπαίδευσης Ιππασίας;",
+    "options": [
+      {
+        "text": "Νέα Μάκρη Αττικής",
+        "isCorrect": false
+      },
+      {
+        "text": "Αρτέμιδα Αττικής",
+        "isCorrect": false
+      },
+      {
+        "text": "Μαρκόπουλο Αττικής",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6682",
+    "text": "Που βρίσκεται το Βεάκειο Θέατρο;",
+    "options": [
+      {
+        "text": "Στο Νέο Φάληρο",
+        "isCorrect": false
+      },
+      {
+        "text": "Στο λόφο της Καστέλας",
+        "isCorrect": true
+      },
+      {
+        "text": "Στο λόφο του Βώκου",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6683",
+    "text": "Σε ποιόν από τους παρακάτω σταθμούς ΜΕΤΡΟ - επί της Λ. Μεσογείων - υπάρχει πιάτσα ταξί;",
+    "options": [
+      {
+        "text": "Εθνική Άμυνα",
+        "isCorrect": true
+      },
+      {
+        "text": "Κοτεχάκη",
+        "isCorrect": false
+      },
+      {
+        "text": "Νομισματοκοπείο",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6684",
+    "text": "Πού βρίσκεται το 414 Στρατιωτικό Νοσοκομείο Ειδικών Νοσημάτων;",
+    "options": [
+      {
+        "text": "Στη Παλαιά Πεντέλη",
+        "isCorrect": true
+      },
+      {
+        "text": "Στη Νέα Πεντέλη",
+        "isCorrect": false
+      },
+      {
+        "text": "Στα Μελίσσια",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6685",
+    "text": "Που βρίσκεται η Δ/νση Μεταφορών - Επικοινωνιών Περιφερειακής Ενότητας Πειραιά & Νήσων;",
+    "options": [
+      {
+        "text": "Στα Καμίνια, Πειραιάς",
+        "isCorrect": true
+      },
+      {
+        "text": "Στο Πέραμα",
+        "isCorrect": false
+      },
+      {
+        "text": "Στη Δραπετσώνα",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6686",
+    "text": ", Σε ποια θέση βρίσκεται το Εθνικό Σκοπευτήριο Βύρωνα;",
+    "options": [
+      {
+        "text": "Πλατεία Ταπητουργείου (Εθνικής Αντιστάσεως)",
+        "isCorrect": false
+      },
+      {
+        "text": "Κακόρεμα",
+        "isCorrect": true
+      },
+      {
+        "text": "Πάρκο Λαμπηδόνας",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6687",
+    "text": "Που βρίσκονται τα γραφεία της Αντιπροσωπείας της Ευρωπαϊκής Επιτροπής στην Ελλάδα;",
+    "options": [
+      {
+        "text": "Στην Οδό Σταδίου",
+        "isCorrect": false
+      },
+      {
+        "text": "Στη Λ. Βασ. Σοφίας",
+        "isCorrect": true
+      },
+      {
+        "text": "Στην οδό Κανάρη",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6688",
+    "text": "Που βρίσκεται το Μαιευτήριο «Μητέρα»",
+    "options": [
+      {
+        "text": "Στο Ψυχικό",
+        "isCorrect": false
+      },
+      {
+        "text": "Στο Χολαργό",
+        "isCorrect": false
+      },
+      {
+        "text": "Στο Μαρούσι",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6689",
+    "text": "Σε ποια λεωφόρο βρίσκεται το Διοικητικό μέγαρο του ΟΤΕ;",
+    "options": [
+      {
+        "text": "Σπάτων",
+        "isCorrect": false
+      },
+      {
+        "text": "Μεσογείων",
+        "isCorrect": false
+      },
+      {
+        "text": "Κηφισίας",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6690",
+    "text": "Σε ποιο οδό βρίσκεται το Δημαρχείο της Αγ. Παρασκευής;",
+    "options": [
+      {
+        "text": "Μεσογείων",
+        "isCorrect": true
+      },
+      {
+        "text": "Αγ. Παρασκευής",
+        "isCorrect": false
+      },
+      {
+        "text": "Αγ. Ιωάννου",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6691",
+    "text": "Σε ποια περιοχή βρίσκεται το Αρχαιολογικό Μουσείο Πειραιά;",
+    "options": [
+      {
+        "text": "Παράπλευρα του Δημοτικού Θεάτρου",
+        "isCorrect": false
+      },
+      {
+        "text": "Στη Φρεαττύδα",
+        "isCorrect": false
+      },
+      {
+        "text": "Ανάμεσα στην Τερψιθέα και στο Πασαλιμάνι",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6692",
+    "text": "Που βρίσκεται η μονή Αγ. Ειρήνης Χρυσοβαλάντου;",
+    "options": [
+      {
+        "text": "Στη Λυκόβρυση",
+        "isCorrect": true
+      },
+      {
+        "text": "Στη Παλαιά Πεντέλη",
+        "isCorrect": false
+      },
+      {
+        "text": "Στα Μελίσσια",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6693",
+    "text": "Που βρίσκεται το άλσος Παυλάκη;",
+    "options": [
+      {
+        "text": "Στα Βριλήσσια",
+        "isCorrect": false
+      },
+      {
+        "text": "Στη Φιλοθέη",
+        "isCorrect": true
+      },
+      {
+        "text": "Στο Ψυχικό",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6694",
+    "text": "Ποια λεωφόρο θα επιλέξετε για να πάτε στο Λιμάνι της Ραφήνας από την Αγ. Παρασκευή;",
+    "options": [
+      {
+        "text": "Λ. Κορωπίου - Μαρκοπούλου",
+        "isCorrect": false
+      },
+      {
+        "text": "Λ. Μαραθώνας",
+        "isCorrect": true
+      },
+      {
+        "text": "Λ. Σουνίου",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6695",
+    "text": "Που βρίσκεται το Κωνσταντοπούλειο Γενικό Νοσοκομείο;",
+    "options": [
+      {
+        "text": "Στη Λ. Αλεξάνδρας",
+        "isCorrect": false
+      },
+      {
+        "text": "Στη Νέα Ιωνία",
+        "isCorrect": true
+      },
+      {
+        "text": "Στα Πατήσια",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6696",
+    "text": "Που βρίσκεται το κεντρικό κτίριο της Περιφερειακής Ενότητας Δυτικής Αθήνας;",
+    "options": [
+      {
+        "text": "Στο Ίλιον",
+        "isCorrect": false
+      },
+      {
+        "text": "Στο Περιστέρι",
+        "isCorrect": true
+      },
+      {
+        "text": "Στο Αιγάλεω",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6697",
+    "text": "Που βρίσκεται η πρεσβεία της Ρωσίας;",
+    "options": [
+      {
+        "text": "Στο Κολωνάκι",
+        "isCorrect": false
+      },
+      {
+        "text": "Στη Φιλοθέη",
+        "isCorrect": false
+      },
+      {
+        "text": "Στο Ψυχικό",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6698",
+    "text": "Ποια κεντρική οδός περνάει από τον σταθμό του μετρό «Άγιος Αντώνιος»;",
+    "options": [
+      {
+        "text": "Θηβών",
+        "isCorrect": false
+      },
+      {
+        "text": "Λένορμαν",
+        "isCorrect": false
+      },
+      {
+        "text": "Παναγή Τσαλδάρη",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6699",
+    "text": "Που βρίσκεται το Νεκροταφείο Αγ. Παρασκευής;",
+    "options": [
+      {
+        "text": "Κοντά στο σταθμό Μετρό Αγ. Παρασκευής",
+        "isCorrect": false
+      },
+      {
+        "text": "Κοντά στο Κέντρο Ερευνών Δημόκριτος",
+        "isCorrect": true
+      },
+      {
+        "text": "Κοντά στο Δημαρχείο Αγ. Παρασκευής",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6700",
+    "text": "Που βρίσκεται η περιοχή «Άτταλος»",
+    "options": [
+      {
+        "text": "Ίλιον",
+        "isCorrect": false
+      },
+      {
+        "text": "Αγ. Αναργύρους",
+        "isCorrect": false
+      },
+      {
+        "text": "Καματερό",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6701",
+    "text": "Ποιος από τους  παρακάτω  είναι  ο  πλησιέστερος σταθμός Μετρό  στην  περιοχή «Τσακός Αγ. Παρασκευής»;",
+    "options": [
+      {
+        "text": "Νομισματοκοπείο",
+        "isCorrect": true
+      },
+      {
+        "text": "Δουκίσης Πλακεντίας",
+        "isCorrect": false
+      },
+      {
+        "text": "Εθνικής Άμυνας",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6702",
+    "text": "Ποια λεωφόρος διέρχεται από το κέντρο Περιστερίου;",
+    "options": [
+      {
+        "text": "Παναγή Τσαλδάρη",
+        "isCorrect": true
+      },
+      {
+        "text": "Αθηνών",
+        "isCorrect": false
+      },
+      {
+        "text": "Θηβών",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6703",
+    "text": "Σε ποια λεωφόρο βρίσκεται το Ίδρυμα «Μητέρα» Αγ. Αναργύρων;",
+    "options": [
+      {
+        "text": "Λ. Αγ. Αναργύρων",
+        "isCorrect": false
+      },
+      {
+        "text": "Λ. Χασιάς",
+        "isCorrect": false
+      },
+      {
+        "text": "Λ. Δημοκρατίας",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6704",
+    "text": "Πως θα πάτε, ακολουθώντας τη συντομότερη διαδρομή, από το σταθμό μετρό «Ανθούπολη» στο «Πανεπιστημιακό Γενικό Νοσοκομείο Αττικόν»;",
+    "options": [
+      {
+        "text": "Αναπαύσεως - Δωδεκανήσου - Πελασγίας -Αγ. Τριάδος - Ρίμινι",
+        "isCorrect": true
+      },
+      {
+        "text": "Αναπαύσεως - Θηβών - Τζον Κένεντυ - Αγ. Τριάδος - Ρίμινι",
+        "isCorrect": false
+      },
+      {
+        "text": "Αναπαύσεως - Θηβών - Αθηνών - Ρίμινι",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6705",
+    "text": "Σε ποια οδό βρίσκεται ο Εθνικός Οργανισμός Παροχής Υπηρεσιών Υγείας (ΕΟΠΥΥ) Δυτικής Αθήνας;",
+    "options": [
+      {
+        "text": "Θηβών",
+        "isCorrect": false
+      },
+      {
+        "text": "Ιερά Οδό",
+        "isCorrect": false
+      },
+      {
+        "text": "Μ. Μπότσαρη",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6706",
+    "text": "Που βρίσκεται το θέατρο Βράχων «Μελίνα Μερκούρη»",
+    "options": [
+      {
+        "text": "Στο Βύρωνα",
+        "isCorrect": true
+      },
+      {
+        "text": "Στη Δάφνη",
+        "isCorrect": false
+      },
+      {
+        "text": "Στην Αργυρούπολη",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6707",
+    "text": "Που βρίσκεται η Γενική Αστυνομική Διεύθυνση Αττικής (Γ.Α.Δ.Α);",
+    "options": [
+      {
+        "text": "Στη Λεωφ. Αλεξάνδρας",
+        "isCorrect": true
+      },
+      {
+        "text": "Στη Λεωφ. Συγγρού",
+        "isCorrect": false
+      },
+      {
+        "text": "Στη Λεωφ. Μεσογείων",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6708",
+    "text": "Που βρίσκεται ο αρχαιολογικός χώρος Ελευσίνας;",
+    "options": [
+      {
+        "text": "Στη περιοχή Καλυμπάκι",
+        "isCorrect": false
+      },
+      {
+        "text": "Νότια της κεντρικής οδού Ηρώων Πολυτεχνείου (Πλατεία Ηρώων)",
+        "isCorrect": true
+      },
+      {
+        "text": "Στη Παραλία Ελευσίνας",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6709",
+    "text": "Που βρίσκεται το Πάντειο Πανεπιστήμιο;",
+    "options": [
+      {
+        "text": "Σόλωνος",
+        "isCorrect": false
+      },
+      {
+        "text": "Πατησίων",
+        "isCorrect": false
+      },
+      {
+        "text": "Λεωφ. Συγγρού",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6710",
+    "text": "Ποια λεωφόρο ΔΕΝ θα επιλέξετε για το Λιμάνι του Λαυρίου;",
+    "options": [
+      {
+        "text": "Λ. Κορωπίου – Μαρκοπούλου",
+        "isCorrect": true
+      },
+      {
+        "text": "Λ. Λαυρίου",
+        "isCorrect": false
+      },
+      {
+        "text": "Λ. Σουνίου",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6711",
+    "text": "Που βρίσκεται το Αντικαρκινικό Νοσοκομείο Πειραιά «ΜΕΤΑΞΑ»;",
+    "options": [
+      {
+        "text": "Στον Άγιο Νείλο",
+        "isCorrect": false
+      },
+      {
+        "text": "Στον Άγιο Σπυρίδωνα",
+        "isCorrect": false
+      },
+      {
+        "text": "Στον Άγιο Βασίλειο",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6712",
+    "text": "Από ποια κεντρική οδό γίνεται η πρόσβαση στο θέατρο Badmigton;",
+    "options": [
+      {
+        "text": "Από Κηφισού",
+        "isCorrect": false
+      },
+      {
+        "text": "Από Κατεχάκη",
+        "isCorrect": false
+      },
+      {
+        "text": "Από Κανελλοπούλου",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6713",
+    "text": "Που βρίσκεται το Οφθαλμιατρείο Αθηνών;",
+    "options": [
+      {
+        "text": "Στην Πανεπιστημίου",
+        "isCorrect": true
+      },
+      {
+        "text": "Στην Βασ. Σοφίας",
+        "isCorrect": false
+      },
+      {
+        "text": "Στην 28ης Οκτωβρίου",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6714",
+    "text": "Που βρίσκεται το Μουσείο Γουλανδρή Φυσικής Ιστορίας;",
+    "options": [
+      {
+        "text": "Στην Κηφισιά",
+        "isCorrect": true
+      },
+      {
+        "text": "Στο Νέο Ψυχικό",
+        "isCorrect": false
+      },
+      {
+        "text": "Στο Παλαιό Ψυχικό",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6715",
+    "text": "Που βρίσκεται το ξενοδοχείο Πεντελικόν;",
+    "options": [
+      {
+        "text": "Στο Σταυρό Αγίας Παρασκευής",
+        "isCorrect": false
+      },
+      {
+        "text": "Στο Καστρί",
+        "isCorrect": false
+      },
+      {
+        "text": "Στο Κεφαλάρι",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6716",
+    "text": "Που βρίσκεται το Υπουργείο Ναυτιλίας & Αιγαίου;",
+    "options": [
+      {
+        "text": "Στην Ακτή Βασιλειάδη",
+        "isCorrect": true
+      },
+      {
+        "text": "Στην Ακτή Ξαβερίου",
+        "isCorrect": false
+      },
+      {
+        "text": "Στην Ακτή Κουντουριώτου",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6717",
+    "text": "Σε ποια οδό βρίσκεται το Εθνικό Αρχαιολογικό Μουσείο;",
+    "options": [
+      {
+        "text": "Στην Πειραιώς",
+        "isCorrect": false
+      },
+      {
+        "text": "Στη Βασ. Σοφίας",
+        "isCorrect": false
+      },
+      {
+        "text": "Στην Πατησίων",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6718",
+    "text": "Σε ποιο Δήμο βρίσκονται τα Σούρμενα;",
+    "options": [
+      {
+        "text": "Γλυφάδας",
+        "isCorrect": false
+      },
+      {
+        "text": "Αργυρούπολης - Ελληνικού",
+        "isCorrect": true
+      },
+      {
+        "text": "Παλαιού Φαλήρου",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6719",
+    "text": "Ποια οδός διέρχεται μπροστά από το Καλλιμάρμαρο Στάδιο;",
+    "options": [
+      {
+        "text": "Βασ. Όλγας",
+        "isCorrect": false
+      },
+      {
+        "text": "Βασ. Κωνσταντίνου",
+        "isCorrect": true
+      },
+      {
+        "text": "Βασ. Αμαλίας",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6720",
+    "text": "Σε ποια περιοχή βρίσκεται το Σταθμαρχείο Αθηνών - Σουνίου του ΚΤΕΛ Αττικής Α.Ε;",
+    "options": [
+      {
+        "text": "Στο Κολωνάκι",
+        "isCorrect": false
+      },
+      {
+        "text": "Στο Γκάζι",
+        "isCorrect": false
+      },
+      {
+        "text": "Στο Πεδίο του Άρεως",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6721",
+    "text": "Ποια Λεωφόρος διέρχεται από το Άλσος Νέας Φιλαδέλφειας;",
+    "options": [
+      {
+        "text": "Δεκέλειας",
+        "isCorrect": true
+      },
+      {
+        "text": "Ηρακλείου",
+        "isCorrect": false
+      },
+      {
+        "text": "Βεϊκου",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6722",
+    "text": "Ποιος είναι ο πλησιέστερος σταθμός ΜΕΤΡΟ από το 3° Νεκροταφείο Αθηνών;",
+    "options": [
+      {
+        "text": "Κεραμεικός",
+        "isCorrect": false
+      },
+      {
+        "text": "Αιγάλεω",
+        "isCorrect": true
+      },
+      {
+        "text": "Ελαιώνας",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6723",
+    "text": "Που βρίσκεται το Θριάσιο Γενικό Νοσοκομείο;",
+    "options": [
+      {
+        "text": "Ελευσίνα",
+        "isCorrect": true
+      },
+      {
+        "text": "Χαϊδάρι",
+        "isCorrect": false
+      },
+      {
+        "text": "Ασπρόπυργος",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6724",
+    "text": "Σε ποια οδό βρίσκεται το Γεωπονικό Πανεπιστήμιο Αθηνών;",
+    "options": [
+      {
+        "text": "Λεωφ. Αθηνών",
+        "isCorrect": false
+      },
+      {
+        "text": "Ιερά Οδός",
+        "isCorrect": true
+      },
+      {
+        "text": "Πέτρου Ράλλη",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6725",
+    "text": "Που βρίσκεται η Πρεσβεία της Αλβανίας;",
+    "options": [
+      {
+        "text": "Φιλοθέη",
+        "isCorrect": true
+      },
+      {
+        "text": "Αγία Παρασκευή",
+        "isCorrect": false
+      },
+      {
+        "text": "Χαλάνδρι",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6726",
+    "text": "Σε ποια οδό βρίσκεται η Διεύθυνση Μεταφορών και Επικοινωνιών Περιφερειακής Ενότητας Νότιας Αθήνας;",
+    "options": [
+      {
+        "text": "Αργοστολίου",
+        "isCorrect": false
+      },
+      {
+        "text": "Αγίου Δημητρίου",
+        "isCorrect": false
+      },
+      {
+        "text": "Θεομήτορος",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "6727",
+    "text": "Σε ποια περιοχή βρίσκεται η Σχολή Αξιωματικών Ελληνικής Αστυνομίας;",
+    "options": [
+      {
+        "text": "Άνω Λιόσια",
+        "isCorrect": false
+      },
+      {
+        "text": "Αχαρνές",
+        "isCorrect": true
+      },
+      {
+        "text": "Μεταμόρφωση",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΤΟΠΙΚΑ (ATTIKH)",
+    "vehicleType": "Unknown"
+  }
+]

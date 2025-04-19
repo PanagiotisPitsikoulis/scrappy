@@ -1,0 +1,285 @@
+[
+  {
+    "id": "509",
+    "text": "Αυτή η πινακίδα τονίζει μια σειρά στροφών από τις οποίες η πρώτη είναι προς τα αριστερά:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/i01-968b4b6e3d1e4a40a02ae419e8c905be1a9266823065285f520b2d62a52f02dd.jpg",
+    "options": [
+      {
+        "text": "ΟΧΙ",
+        "isCorrect": true
+      },
+      {
+        "text": "ΝΑΙ",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΡΟΦΕΣ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Όχι, η πρώτη στροφή δεν είναι προς τα αριστερά, είναι προς τα δεξιά.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/strofes-1-194bf91f5fdd3ad37f5c9ad52597f4e0811db18cf5cecbbc0c5009a7fa2a4c6a.gif"
+  },
+  {
+    "id": "510",
+    "text": "Αυτή η πινακίδα τονίζει αλλεπάλληλες στροφές για απόσταση 200 m:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/i02-6e86b0974d845f3a1fb2e5c6d5129c160cb2a72a1d4b5ec04836716af03a4b16.jpg",
+    "options": [
+      {
+        "text": "ΟΧΙ",
+        "isCorrect": true
+      },
+      {
+        "text": "ΝΑΙ",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΡΟΦΕΣ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Όχι, δεν αρχίζουν οι επικίνδυνες στροφές από εκεί που είναι η πινακίδα, αλλά μετά από 200 m ",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/strofes-2-249114c79710bd56e692176b75bc20399c18ecf7ee352eb0f2186519df13e063.gif"
+  },
+  {
+    "id": "511",
+    "text": "Πώς πρέπει να ενεργήσετε βλέποντας τις πινακίδες της φωτογραφίας και γιατί:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/i03-32ea6ca8a3853264c6f5097c345ba7dc5450ab0cd4a8a57eb37b17f629e9b2c3.jpg",
+    "options": [
+      {
+        "text": "Πρέπει να εντείνετε την προσοχή σας ανακόπτοντας την ταχύτητα του οχήματός σας αν είναι ανάγκη, επειδή οι πινακίδες προειδοποιούν για επικίνδυνη καμπύλη προς τα αριστερά.",
+        "isCorrect": true
+      },
+      {
+        "text": "Πρέπει να κινηθείτε προς τα αριστερά, επειδή οι πινακίδες δηλώνουν ότι είναι υποχρεωτική η πορεία προς τα αριστερά.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΡΟΦΕΣ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Οι πινακίδες προειδοποιούν για επικίνδυνη καμπύλη προς τα αριστερά. Πρέπει να εντείνετε την προσοχή σας, ανακόπτοντας αν είναι ανάγκη την ταχύτητα του οχήματός σας.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/strofes-3-f4f1b07f79c756955ca35cd7b8e2deee87fed86c1403f54d67869c003171cc8d.gif"
+  },
+  {
+    "id": "512",
+    "text": "Γιατί εδώ πρέπει να οδηγείτε με ιδιαίτερη προσοχή:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/i04-ab58f6597a4df4353c61e85406ee16e5ae3527e6766f220a28c31de443e65e06.jpg",
+    "options": [
+      {
+        "text": "Γιατί μετά τη δεξιά στροφή μπορεί να υπάρχει επικίνδυνη αριστερή στροφή.",
+        "isCorrect": false
+      },
+      {
+        "text": "Γιατί η ορατότητα εμποδίζεται από τη στροφή και το οδόστρωμα είναι βρεγμένο.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΤΡΟΦΕΣ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Οδηγείστε με ιδιαίτερη προσοχή, γιατί η ορατότητα εμποδίζεται από τη στροφή και το οδόστρωμα είναι βρεγμένο. ",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/strofes-4-94fe8bca7bb50e1beb641bc06bb5cf014779c1d3ec5b4055657c5f09bdbe2f27.gif"
+  },
+  {
+    "id": "513",
+    "text": "Ποια είναι η προειδοποίηση των πινακίδων της φωτογραφίας:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/i05-ca13851cd580a288dd238aa5bee03ec2a3c14470f41dd9ce115efd8fabafb9c2.jpg",
+    "options": [
+      {
+        "text": "Επειδή θα συναντήσετε διακλάδωση με λοξή οδό αριστερά, πρέπει η ταχύτητά σας να περιορισθεί σε 40 km/h.",
+        "isCorrect": false
+      },
+      {
+        "text": "Μπροστά σας υπάρχουν δύο επικίνδυνες αντίρροπες ή διαδοχικές συνεχείς στροφές, η πρώτη αριστερά και η ταχύτητά σας πρέπει να περιορισθεί σε 40 km/h.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΤΡΟΦΕΣ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Οι πινακίδες σας προειδοποιούν, ότι μπροστά σας υπάρχουν δύο επικίνδυνες αντίρροπες ή διαδοχικές (συνεχείς) στροφές, η πρώτη αριστερά και η ταχύτητά σας πρέπει να περιορισθεί σε 40 km/h. ",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/strofes-5-6f69d111580c4365ff117c4279a7ea5ddb3f90648213a55dd1c6be672461b041.gif"
+  },
+  {
+    "id": "514",
+    "text": "Η φυγόκεντρη δύναμη:",
+    "options": [
+      {
+        "text": "Μπορεί, μερικές φορές, να γίνει αισθητή στη δεξιά πλευρά του οχήματος.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ωθεί το όχημά σας προς το εξωτερικό της στροφής.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ωθεί το όχημά σας προς το εσωτερικό της στροφής.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΡΟΦΕΣ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Η φυγόκεντρη δύναμη ωθεί το όχημά σας προς το εξωτερικό της στροφής. ",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/strofes-7-7db993215f1df8d2b2d1eaa5eebbb99691788c590bb56bf925509193b8148c59.gif"
+  },
+  {
+    "id": "515",
+    "text": "Από τι επηρεάζεται το μέγεθος της φυγόκεντρου δυνάμεως επάνω στη στροφή:",
+    "options": [
+      {
+        "text": "Από την ταχύτητα.",
+        "isCorrect": true
+      },
+      {
+        "text": "Από τον αέρα που δημιουργείται κατά την πορεία του οχήματος.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΡΟΦΕΣ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Η φυγόκεντρος εξαρτάται από την ταχύτητα.  Όσο μεγαλύτερη είναι η ταχύτητα επάνω στη στροφή τόσο μεγαλύτερη είναι και η φυγόκεντρος που ωθεί το όχημα εκτός στροφής.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/strofes-8-8932f6739beacc5803b0764a1758b4daa20eb690ead2c193b9d5466739c78789.gif"
+  },
+  {
+    "id": "516",
+    "text": "Όταν οδηγείτε σε στροφή η ελάχιστη ταχύτητα του οχήματός σας θα πρέπει να είναι όταν:",
+    "options": [
+      {
+        "text": "Εξέρχεσθε από τη στροφή.",
+        "isCorrect": false
+      },
+      {
+        "text": "Εισέρχεστε στη στροφή.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΤΡΟΦΕΣ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": " Η ελάχιστη ταχύτητα του οχήματός σας θα πρέπει να είναι όταν εισέρχεστε στη στροφή. Όσο μικρότερη είναι η ταχύτητα επάνω στη στροφή τόσο μικρότερη είναι και η φυγόκεντρος που ωθεί το όχημα εκτός στροφής",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/strofes-9-2d92b5aa2c6eaea9bb5eb0a393f97211b07bf162c5aa6bea7619ab0996ed401e.gif"
+  },
+  {
+    "id": "517",
+    "text": "Στις στροφές, εάν το αυτοκίνητό σας είναι υπερφορτωμένο:",
+    "options": [
+      {
+        "text": "Μειώνεται ο κίνδυνος εκτροπής.",
+        "isCorrect": false
+      },
+      {
+        "text": "Αυξάνεται ο κίνδυνος εκτροπής.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΤΡΟΦΕΣ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Στις στροφές, εάν το αυτοκίνητό σας είναι υπερφορτωμένο, αυξάνεται ο κίνδυνος εκτροπής. Το μέγεθος της φυγόκεντρου δυνάμεως επηρεάζεται από το βάρος και την ταχύτητα.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/strofes-10-3326a9dc681ddd87b48e536c62f8447f9e60ae82d33811148adf9ab9093804ae.gif"
+  },
+  {
+    "id": "518",
+    "text": "Πώς συμπεριφέρεσθε σε κλειστές στροφές:",
+    "options": [
+      {
+        "text": "Ελαττώνετε την ταχύτητα μόνο όταν βρίσκεσθε στην κορυφή της καμπύλης.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ελαττώνετε την ταχύτητα προ της στροφής και επιταχύνετε μόνο όταν, μετά τη στροφή, βγείτε πάλι στην ευθεία.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΤΡΟΦΕΣ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Ελαττώστε την ταχύτητα προ της στροφής και επιταχύνετε μόνο όταν δείτε την έξοδό της. Όσο μικρότερη είναι η ταχύτητα μέσα στη στροφή τόσο μικρότερη είναι και η φυγόκεντρος που ωθεί το όχημα εκτός στροφής.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/strofes-11-969a4e0388de5a550a936b2e8b43259023aaa0e7fe95a9349781549f83e64d65.gif"
+  },
+  {
+    "id": "519",
+    "text": "Τι μπορεί να οδηγήσει σε ιδιαίτερα επικίνδυνες καταστάσεις κατά την κίνηση σε στροφή:",
+    "options": [
+      {
+        "text": "Η αλλαγή λωρίδας μέσα στη στροφή.",
+        "isCorrect": true
+      },
+      {
+        "text": "Η σταθερή ταχύτητα μέσα στη στροφή.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΡΟΦΕΣ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Η αλλαγή λωρίδας μέσα στη στροφή, μπορεί να οδηγήσει σε ιδιαίτερα επικίνδυνες καταστάσεις.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/strofes-12-7ee4d235afe6da04d253e137d6a0d95f336a5a367d5fcfd8a89571d5003c8f1c.gif"
+  },
+  {
+    "id": "520",
+    "text": "Σε τι πρέπει να υπολογίζει ο οδηγός ενός οχήματος που ακολουθεί ένα βαρύ όχημα το οποίο θέλει να στρίψει δεξιά σε ένα δρόμο:",
+    "options": [
+      {
+        "text": "Το βαρύ όχημα θα πάρει θέση στο δεξιό άκρο του δρόμου.",
+        "isCorrect": false
+      },
+      {
+        "text": "Το βαρύ όχημα πριν στρίψει θα μετακινηθεί στο αριστερό μέρος του δρόμου.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΤΡΟΦΕΣ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Ένα βαρύ (μακρύ) όχημα, πριν στρίψει θα μετακινηθεί προς το αριστερό μέρος του δρόμου, για να στρίψει χωρίς να ανέβει στα πεζοδρόμια.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/strofes-14-6a07e852d7539f3219e73e37ca569bc6f0f7b5e1cf071d7f04e3d126c956ac79.gif"
+  },
+  {
+    "id": "521",
+    "text": "Κάθε φορά που η ταχύτητα διπλασιάζεται η φυγόκεντρη δύναμη πολλαπλασιάζεται:",
+    "options": [
+      {
+        "text": "Επί τέσσερα.",
+        "isCorrect": true
+      },
+      {
+        "text": "Επί τρία.",
+        "isCorrect": false
+      },
+      {
+        "text": "Επί δύο.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΡΟΦΕΣ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Όταν διπλασιάσετε την ταχύτητα, τετραπλασιάζεται η φυγόκεντρη δύναμη.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/strofes-15-d7c00db93bf4239fdf9b2b14cc9212ad20e9657d4ce45f34c5703a7262eacc41.gif"
+  },
+  {
+    "id": "522",
+    "text": "Κινείσθε γρήγορα με το επιβατηγό σας σε μία στροφή. Τι μπορεί να συμβεί εάν ξαφνικά φρενάρετε δυνατά:",
+    "options": [
+      {
+        "text": "Το επιβατηγό μπορεί να εκτραπεί από το δρόμο.",
+        "isCorrect": true
+      },
+      {
+        "text": "Το επιβατηγό παραμένει ασφαλές στην πορεία του.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΡΟΦΕΣ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Σε μία στροφή,  εάν συμβεί μπλοκάρισμα των τροχών από δυνατό φρενάρισμα, δεν θα έχετε την διεύθυνση των εμπρόσθιων τροχών και μπορεί το επιβατηγό να εκτραπεί.\r\n",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/strofes-16-48c9dfd4cb6a11989fbcda8687bae3c6b2e178d54b7ada74c4c14fcdb87d2c1e.gif"
+  },
+  {
+    "id": "523",
+    "text": "Αλλάζετε σχέση στο κιβώτιο ταχυτήτων μέσα σε στροφή:",
+    "options": [
+      {
+        "text": "Είναι λανθασμένος χειρισμός.",
+        "isCorrect": true
+      },
+      {
+        "text": "Είναι σωστός χειρισμός.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΡΟΦΕΣ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Είναι λανθασμένος χειρισμός. Πρέπει να έχετε και τα δύο χέρια στο τιμόνι όταν οδηγείτε  μέσα στη στροφή.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/strofes-17-cac87adc80a0ef7a904b0a1a583df110d895c956eaf0da2d3aeefe98e9bc968d.gif"
+  }
+]

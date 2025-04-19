@@ -1,0 +1,1187 @@
+[
+  {
+    "id": "991",
+    "text": "Όταν σε περιοχές έργων στον αυτοκινητόδρομο, η οριζόντια σήμανση συμπεριλαμβάνει άσπρες και κίτρινες γραμμές ταυτόχρονα, σέβεστε:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/f-02-0c040f2354d967ab0d86bae45c3e7aa2dec31e5e081f5051dbc17f7bbb376c0e.jpg",
+    "options": [
+      {
+        "text": "Μόνο τις κίτρινες γραμμές.",
+        "isCorrect": true
+      },
+      {
+        "text": "Τις άσπρες και τις κίτρινες γραμμές.",
+        "isCorrect": false
+      },
+      {
+        "text": "Μόνο τις άσπρες γραμμές.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "992",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/f-031-19fc06b28421bce2946b7937cad9d2e82f06f377ab02d488ed874a20b04e3392.jpg",
+    "options": [
+      {
+        "text": "Αναγγελία προσεγγίσεως σε διασταύρωση εθνικής οδού.",
+        "isCorrect": false
+      },
+      {
+        "text": "Αναγγελία προσεγγίσεως σε διασταύρωση οδού ταχείας κυκλοφορίας.",
+        "isCorrect": false
+      },
+      {
+        "text": "Αναγγελία προσεγγίσεως σε ανισόπεδο κόμβο αυτοκινητόδρομου.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "993",
+    "text": "Σε αυτήν την περίπτωση, έχετε το δικαίωμα να προσπεράσετε:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/f-11-dfab65379e809530ee13cea56eb6f664aea379052d30e02890da6be42f238f97.jpg",
+    "options": [
+      {
+        "text": "ΌΧΙ",
+        "isCorrect": false
+      },
+      {
+        "text": "ΝΑΙ",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "994",
+    "text": "Βρίσκεσθε κατά λάθος σε μια λωρίδα επιβραδύνσεως και το συνειδητοποιείτε καθυστερημένα:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/f-13-d01cc649a595cdd7ee1f7b5f7b98aea52566ac60d152750b5bbc4f20b8061dd1.jpg",
+    "options": [
+      {
+        "text": "Μένετε στην ίδια λωρίδα, ακόμα και αν κάνατε λάθος.",
+        "isCorrect": true
+      },
+      {
+        "text": "Αλλάζετε λωρίδα.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "995",
+    "text": "Αυτή η πινακίδα σας τονίζει:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/f-15-e0ecbe47d880080ab3e760c41da5e87d5de8359188ae4347165db9d69dafcd68.jpg",
+    "options": [
+      {
+        "text": "Έναν κίνδυνο που βρίσκεται 1.000 m μετά την πινακίδα.",
+        "isCorrect": false
+      },
+      {
+        "text": "Κίνδυνο για τα επόμενα 1.000 m του δρόμου.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "996",
+    "text": "Ποια οχήματα απαγορεύεται να εισέλθουν σε μία οδό με αυτήν τη σήμανση:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/f-19-a3b67bd9aa3a46bf58ebf502094b76bf8f1ccf48554572c6dc73e14c193d8e3e.jpg",
+    "options": [
+      {
+        "text": "Τα οχήματα συνολικού βάρους που υπερβαίνει τους 5 τόνους.",
+        "isCorrect": true
+      },
+      {
+        "text": "Τα οχήματα συνολικού βάρους που δεν υπερβαίνει τους 2 τόνους.",
+        "isCorrect": false
+      },
+      {
+        "text": "Τα οχήματα που έχουν απόβαρο που δεν υπερβαίνει τους 5 τόνους.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "997",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/f-21-d2d6214a238d858c24b1bafd5920637d1dcaf3a4e6e1240162fcdd75f7f66647.jpg",
+    "options": [
+      {
+        "text": "Απαγορεύεται η προσέγγιση προπορευόμενου οχήματος σε απόσταση μικρότερη των 2 m.",
+        "isCorrect": false
+      },
+      {
+        "text": "Απαγορεύεται η είσοδος σε οχήματα συνολικού πλάτους που υπερβαίνει τα 2 m.",
+        "isCorrect": true
+      },
+      {
+        "text": "Οδόστρωμα πλάτους 2 m.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "998",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/f-22-d7888cd91e38158513b6b5e8f49b60d13af86e00979751ae5ba32fb912fee532.jpg",
+    "options": [
+      {
+        "text": "Απαγορεύεται το ρυμουλκούμενο όχημα να έχει βάρος μεγαλύτερο από 3 τόνους.",
+        "isCorrect": true
+      },
+      {
+        "text": "Έξοδος από περιοχή όπου το μέγιστο φορτίο ανά άξονα δεν πρέπει να υπερβαίνει τους 3 τόνους.",
+        "isCorrect": false
+      },
+      {
+        "text": "Απαγορεύεται η είσοδος σε ρυμουλκούμενα οχήματα.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "999",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/f-23-cd72247878b84583288c84a26930e3e1bfbd33793620bc94a367c14c89c77ef0.jpg",
+    "options": [
+      {
+        "text": "Απαγορεύεται η είσοδος σε ρυμουλκούμενα οχήματα.",
+        "isCorrect": false
+      },
+      {
+        "text": "Απαγορεύεται η είσοδος σε μηχανοκίνητο όχημα το οποίο σύρει ρυμουλκούμενο πλην ημιρυμουλκούμενου ή ρυμουλκούμενου ενός άξονα.",
+        "isCorrect": true
+      },
+      {
+        "text": "Απαγορεύεται η είσοδος σε φορτηγά οχήματα.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1000",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/f-30-fcf3370ee72946c1d485615cdc5900a3e7c33a5e9465e57798024b29f152aa32.jpg",
+    "options": [
+      {
+        "text": "Οδός αποκλειστικής κυκλοφορίας φορτηγών οχημάτων.",
+        "isCorrect": false
+      },
+      {
+        "text": "Απαγορεύεται η είσοδος σε όλα τα μηχανοκίνητα οχήματα.",
+        "isCorrect": false
+      },
+      {
+        "text": "Απαγορεύεται η είσοδος σε φορτηγά οχήματα.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1001",
+    "text": "Ποια οχήματα απαγορεύεται να εισέλθουν σε μία οδό με αυτήν τη σήμανση:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/f-33-866cd5d31170687933c15816facf620b12602c1a6866b7dd4c84ee1b0c31eb54.jpg",
+    "options": [
+      {
+        "text": "Τα οχήματα συνολικού μήκους που δεν υπερβαίνει τα 3,5 m.",
+        "isCorrect": false
+      },
+      {
+        "text": "Τα οχήματα συνολικού μήκους που υπερβαίνει τα 3,5 m.",
+        "isCorrect": false
+      },
+      {
+        "text": "Τα οχήματα συνολικού ύψους που υπερβαίνει τα 3,5 m.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1002",
+    "text": "Ποια οχήματα απαγορεύεται να εισέλθουν σε μία οδό με αυτήν τη σήμανση:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/f-36-3793b5053b0a1149c31e3faa4e678461761fd597ca363650db4d60b1952c6094.jpg",
+    "options": [
+      {
+        "text": "Τα οχήματα συνολικού βάρους μικρότερου από 2 τόνους.",
+        "isCorrect": false
+      },
+      {
+        "text": "Τα οχήματα των οποίων το βάρος ανά άξονα υπερβαίνει τους 2 τόνους.",
+        "isCorrect": true
+      },
+      {
+        "text": "Τα οχήματα ωφέλιμου φορτίου 2 τόνων.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1003",
+    "text": "Για ποια οχήματα ισχύει η απόσταση ασφαλείας των 70 m που καθορίζει η πινακίδα αυτή:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/f-37-e422e6409aecc2d8d799a2d64f8a77f549e6fbd919f30ded7e64d22af77db699.jpg",
+    "options": [
+      {
+        "text": "Μόνο τα επιβατηγά οχήματα χωρίς ρυμουλκούμενο όχημα.",
+        "isCorrect": false
+      },
+      {
+        "text": "Μόνο τα επιβατηγά οχήματα.",
+        "isCorrect": false
+      },
+      {
+        "text": "Όλα τα οχήματα.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1004",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/f-38-aa9e271280844277c96437ad2990768573a3d8e9e2b396eb57ba10fe49d46e23.jpg",
+    "options": [
+      {
+        "text": "Απαγορεύεται η είσοδος στα οχήματα που μεταφέρουν επικίνδυνα υλικά.",
+        "isCorrect": true
+      },
+      {
+        "text": "Απαγορεύεται η διέλευση στα ρυμουλκά οχήματα.",
+        "isCorrect": false
+      },
+      {
+        "text": "Απαγορεύεται η διέλευση στα φορτηγά.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1005",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/f-42-c4d26151f2f04f7eb31095051ee267f9c9eb79363f81d3dcf0c965ae12c42b3b.jpg",
+    "options": [
+      {
+        "text": "Απαγορεύεται η είσοδος σε φορτηγά αυτοκίνητα με απόσταση μεταξύ των αξόνων μεγαλύτερη των 10 m.",
+        "isCorrect": false
+      },
+      {
+        "text": "Απαγορεύεται η είσοδος σε φορτηγά αυτοκίνητα  μήκους μικρότερου των 10 m.",
+        "isCorrect": false
+      },
+      {
+        "text": "Απαγορεύεται η είσοδος σε οχήματα ή συνδυασμούς οχημάτων μήκους που υπερβαίνει τα 10 m.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1006",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/f-56-9e5213e4b237ded49ce9599f124a787694ffc98b714226cae274e8a395ed9403.jpg",
+    "options": [
+      {
+        "text": "Απαγορεύεται η είσοδος σε βαρέα οχήματα επειδή κάτω από το οδόστρωμα υπάρχει αυλάκι με νερό.",
+        "isCorrect": false
+      },
+      {
+        "text": "Απαγορεύεται η είσοδος σε οχήματα που μεταφέρουν πάνω από ορισμένη ποσότητα ύλες που μπορεί να προκαλέσουν μόλυνση των υδάτων.",
+        "isCorrect": true
+      },
+      {
+        "text": "Απαγορεύεται η είσοδος σε βυτιοφόρα οχήματα.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1007",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/f-48-c0f77e85dfe4bed58e11caab7e5c7ba26947ec1f6ba1dad504951e518caab326.jpg",
+    "options": [
+      {
+        "text": "Απαγορεύεται η είσοδος σε μηχανοκίνητα οχήματα.",
+        "isCorrect": false
+      },
+      {
+        "text": "Τέλος απαγορεύσεως προσπεράσματος που είχε επιβληθεί στα φορτηγά αυτοκίνητα με απαγορευτική πινακίδα.",
+        "isCorrect": true
+      },
+      {
+        "text": "Απαγορεύεται στους οδηγούς φορτηγών αυτοκινήτων να προσπερνούν άλλα οχήματα.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1008",
+    "text": "Ποια είναι η σημασία της πινακίδας αυτής:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/f-51-509ff0922bc885770455aab815d6df01dd422fe1013bbe10f6340cc6a4f51fcb.jpg",
+    "options": [
+      {
+        "text": "Υποχρεωτική παρακαμπτήριος διαδρομή όλων των φορτηγών οχημάτων.",
+        "isCorrect": false
+      },
+      {
+        "text": "Υποχρεωτική παρακαμπτήριος διαδρομή των οχημάτων μεταφοράς επικινδύνων φορτίων.",
+        "isCorrect": true
+      },
+      {
+        "text": "Απαγορεύεται η είσοδος σε οχήματα που μεταφέρουν εκρηκτικές ή εύφλεκτες ύλες.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1009",
+    "text": "Ποια είναι η σημασία της πινακίδας αυτής:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/f-52-0b7ae1514300a0e650fbd01221bff0f35f2b8226bb6adefda488fa7d142ca1e5.jpg",
+    "options": [
+      {
+        "text": "Απαγόρευση κατευθύνσεως πορείας οχημάτων που μεταφέρουν επικίνδυνα φορτία.",
+        "isCorrect": false
+      },
+      {
+        "text": "Υποχρεωτική κατεύθυνση πορείας προς τα αριστερά οχημάτων μεταφοράς επικινδύνων φορτίων.",
+        "isCorrect": true
+      },
+      {
+        "text": "Επιβάλλεται ιδιαίτερη προσοχή σε οχήματα που μεταφέρουν επικίνδυνες ύλες που μπορούν να προκαλέσουν μόλυνση των υδάτων.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1010",
+    "text": "Ποια είναι η σημασία της πινακίδας αυτής:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/f-53-be4d11d68077b48da71fb457ffcdaef7c5def6d6b8c6c5c06f1ac550048fb9fb.jpg",
+    "options": [
+      {
+        "text": "Απαγόρευση κατευθύνσεως πορείας οχημάτων που μεταφέρουν επικίνδυνα φορτία.",
+        "isCorrect": false
+      },
+      {
+        "text": "Υποχρεωτική κατεύθυνση πορείας οχημάτων μεταφοράς επικινδύνων φορτίων.",
+        "isCorrect": false
+      },
+      {
+        "text": "Επιβάλλεται ιδιαίτερη προσοχή σε οχήματα που μεταφέρουν επικίνδυνες ύλες που μπορούν να προκαλέσουν μόλυνση των υδάτων.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1011",
+    "text": "Ποια είναι η σημασία της πινακίδας αυτής:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/f-54-fc376a630db3b99ce658b372c3e9bf5c77a6845cbf139ea9d5b068a36edec943.jpg",
+    "options": [
+      {
+        "text": "Υποχρεωτική κατεύθυνση πορείας προς τα δεξιά όλων των φορτηγών οχημάτων.",
+        "isCorrect": false
+      },
+      {
+        "text": "Απαγορεύεται η πορεία προς τα δεξιά οχημάτων που μεταφέρουν επικίνδυνα φορτία.",
+        "isCorrect": false
+      },
+      {
+        "text": "Υποχρεωτική κατεύθυνση πορείας οχημάτων μεταφοράς επικινδύνων φορτίων προς τα δεξιά.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1012",
+    "text": "Σε ποια οχήματα απευθύνεται το μήνυμα αυτής της πινακίδας:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/f-56-9e5213e4b237ded49ce9599f124a787694ffc98b714226cae274e8a395ed9403.jpg",
+    "options": [
+      {
+        "text": "Σε οχήματα που μεταφέρουν επικίνδυνα υλικά.",
+        "isCorrect": false
+      },
+      {
+        "text": "Σε οχήματα που μεταφέρουν πάνω από ορισμένη ποσότητα ύλες που μπορούν να προκαλέσουν μόλυνση των υδάτων.",
+        "isCorrect": true
+      },
+      {
+        "text": "Σε οχήματα που μεταφέρουν πάνω από ορισμένη ποσότητα εκρηκτικές ή εύφλεκτες ύλες.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1013",
+    "text": "Σε ποια οχήματα απευθύνεται το μήνυμα αυτής της πινακίδας:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/f-38-aa9e271280844277c96437ad2990768573a3d8e9e2b396eb57ba10fe49d46e23.jpg",
+    "options": [
+      {
+        "text": "Σε οχήματα που μεταφέρουν επικίνδυνα υλικά.",
+        "isCorrect": true
+      },
+      {
+        "text": "Σε οχήματα που μεταφέρουν πάνω από ορισμένη ποσότητα ύλες που μπορούν να προκαλέσουν μόλυνση των υδάτων.",
+        "isCorrect": false
+      },
+      {
+        "text": "Σε οχήματα που μεταφέρουν πάνω από ορισμένη ποσότητα εκρηκτικές ή εύφλεκτες ύλες.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1014",
+    "text": "Σε ποια οχήματα απευθύνεται το μήνυμα αυτής της πινακίδας:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/f-58-e845545b458e0ce0de7af87ed168f297d55afc7941050aeb204d220fc56b2770.jpg",
+    "options": [
+      {
+        "text": "Σε οχήματα μεταφοράς επικινδύνων φορτίων.",
+        "isCorrect": true
+      },
+      {
+        "text": "Σε οχήματα που μεταφέρουν πάνω από ορισμένη ποσότητα ύλες που μπορούν να προκαλέσουν μόλυνση των υδάτων.",
+        "isCorrect": false
+      },
+      {
+        "text": "Σε οχήματα που μεταφέρουν πάνω από ορισμένη ποσότητα εκρηκτικές ή εύφλεκτες ύλες.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1193",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-32-0a6cc442f0cc2755a4712b93ff95605854923db238ae05ccc93a22f712688e95.jpg",
+    "options": [
+      {
+        "text": "Απαγορεύεται η διέλευση λεωφορείων ή τρόλεϊ.",
+        "isCorrect": false
+      },
+      {
+        "text": "Τέλος αποκλειστικής διελεύσεως λεωφορείων ή τρόλεϊ.",
+        "isCorrect": true
+      },
+      {
+        "text": "Αποκλειστική διέλευση λεωφορείων ή τρόλεϊ.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1194",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-29-ec8527a77d12eec494824c4b47b806c3de990faeefb10ff6f86539d1e85eb76a.jpg",
+    "options": [
+      {
+        "text": "Απαγορεύεται η είσοδος σε μηχανοκίνητα οχήματα εκτός των διτρόχων μοτοσυκλετών.",
+        "isCorrect": true
+      },
+      {
+        "text": "Απαγορεύεται η είσοδος σε όλα τα οχήματα εκτός επιβατηγών.",
+        "isCorrect": false
+      },
+      {
+        "text": "Απαγορεύεται η είσοδος στα επιβατηγά αυτοκίνητα.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1195",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-27-ccf762319079d0c648fb8687802ae0ad4221a8408769219cffd1da01f2019e43.jpg",
+    "options": [
+      {
+        "text": "Προαναγγελία οδού διπλής κυκλοφορίας.",
+        "isCorrect": false
+      },
+      {
+        "text": "Προτεραιότητα της αντιθέτως ερχόμενης κυκλοφορίας λόγω στενότητας οδοστρώματος.",
+        "isCorrect": true
+      },
+      {
+        "text": "Προτεραιότητα έναντι της επερχόμενης κυκλοφορίας.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1196",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-28-ced9f87567d81a85d298f76938da402ac77646ce9762dd5c236c35ce57d6d37b.jpg",
+    "options": [
+      {
+        "text": "Προαναγγελία οδού διπλής κυκλοφορίας.",
+        "isCorrect": false
+      },
+      {
+        "text": "Προτεραιότητα της αντιθέτως ερχόμενης κυκλοφορίας.",
+        "isCorrect": false
+      },
+      {
+        "text": "Προτεραιότητα έναντι της επερχόμενης κυκλοφορίας.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1197",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-05-e34ce841744bc125d419aa824045ea0c4fbcd74b5fd1ff3bcbdedea6e6fd63e8.jpg",
+    "options": [
+      {
+        "text": "Προαναγγελία οδού διπλής κυκλοφορίας.",
+        "isCorrect": true
+      },
+      {
+        "text": "Προτεραιότητα της αντιθέτως ερχόμενης κυκλοφορίας.",
+        "isCorrect": false
+      },
+      {
+        "text": "Προτεραιότητα έναντι της επερχόμενης κυκλοφορίας.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1198",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-14-b921b7cf8dcacad1d06e7f279626daa2d371ecaf328e55076e5f61de54dce388.jpg",
+    "options": [
+      {
+        "text": "Επιτρέπεται η είσοδος στα επιβατηγά αυτοκίνητα.",
+        "isCorrect": false
+      },
+      {
+        "text": "Αυτοκινητόδρομος.",
+        "isCorrect": false
+      },
+      {
+        "text": "Οδός ταχείας κυκλοφορίας.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1199",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-15-dcab087900f0cdc079bf9a91e04fc414d0abc5772ab4a4d85ebd487bd616fae5.jpg",
+    "options": [
+      {
+        "text": "Τέλος οδού ταχείας κυκλοφορίας.",
+        "isCorrect": true
+      },
+      {
+        "text": "Τέλος αυτοκινητόδρομου.",
+        "isCorrect": false
+      },
+      {
+        "text": "Απαγορεύεται η είσοδος στα επιβατηγά αυτοκίνητα.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1200",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-16-8d6c274c498c46266f6e1e1a58f1685eaac3f181f87b7cc6d927dce3533e919d.jpg",
+    "options": [
+      {
+        "text": "Αδιέξοδος.",
+        "isCorrect": false
+      },
+      {
+        "text": "Αυτοκινητόδρομος.",
+        "isCorrect": true
+      },
+      {
+        "text": "Οδός ταχείας κυκλοφορίας.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1201",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-17-567fa4a472c4632d0c029307a5191c829c087e11ee6893d8b14e55f2edd0a6c8.jpg",
+    "options": [
+      {
+        "text": "Τέλος αυτοκινητόδρομου.",
+        "isCorrect": true
+      },
+      {
+        "text": "Τέλος αδιεξόδου.",
+        "isCorrect": false
+      },
+      {
+        "text": "Τέλος οδού ταχείας κυκλοφορίας.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1202",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-13-be09d2c8b9eabeacbcf99d9092a71b04fd265610d1ae9d1afa53a9c64b894ee0.jpg",
+    "options": [
+      {
+        "text": "Υπόγεια διάβαση πεζών.",
+        "isCorrect": false
+      },
+      {
+        "text": "Διάβαση πεζών.",
+        "isCorrect": true
+      },
+      {
+        "text": "Απαγορεύεται η διέλευση πεζών.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1203",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-10-4365210ff3887b2e347bf3adaced184a651ffe3bef731362e83427c936b7ae46.jpg",
+    "options": [
+      {
+        "text": "Χιλιομέτρηση οδών.",
+        "isCorrect": false
+      },
+      {
+        "text": "Αρίθμηση διεθνών αρτηριών.",
+        "isCorrect": false
+      },
+      {
+        "text": "Αρίθμηση εθνικών οδών.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1204",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-11-e75a4d8b27aea474e3fe8c2c9d1fa9c6f596699c5cdfcc56106b899fe6259e1b.jpg",
+    "options": [
+      {
+        "text": "Χιλιομέτρηση οδών.",
+        "isCorrect": false
+      },
+      {
+        "text": "Αρίθμηση διεθνών αρτηριών.",
+        "isCorrect": true
+      },
+      {
+        "text": "Αρίθμηση εθνικών οδών.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1205",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-12-ef598c2831ea636bfd283ba3f409cdd60aa091bf99c2d984020c656101550067.jpg",
+    "options": [
+      {
+        "text": "Χιλιομέτρηση οδών.",
+        "isCorrect": true
+      },
+      {
+        "text": "Αρίθμηση διεθνών αρτηριών.",
+        "isCorrect": false
+      },
+      {
+        "text": "Αρίθμηση εθνικών οδών.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1206",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-08-13ff58c8b262ce26a6b748cd6f8bde43334a02e1a558761e98dfe14bc1101559.jpg",
+    "options": [
+      {
+        "text": "Κατεύθυνση με μορφή βέλους μιας τοπωνυμίας μεγάλου τουριστικού ή αρχαιολογικού ενδιαφέροντος.",
+        "isCorrect": false
+      },
+      {
+        "text": "Προειδοποιητική υποχρεωτικής διαδρομής.",
+        "isCorrect": false
+      },
+      {
+        "text": "Κατεύθυνση μιας τοπωνυμίας με μορφή βέλους.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1207",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-09-963d4c4b7ae536d623184d263b107adef35d67db93d3acbdb07ed58e2f121099.jpg",
+    "options": [
+      {
+        "text": "Κατεύθυνση με μορφή βέλους μιας τοπωνυμίας μεγάλου τουριστικού ή αρχαιολογικού ενδιαφέροντος.",
+        "isCorrect": false
+      },
+      {
+        "text": "Προειδοποιητική υποχρεωτικής διαδρομής.",
+        "isCorrect": false
+      },
+      {
+        "text": "Κατεύθυνση για περισσότερες της μιας τοπωνυμίες με μορφή βέλους.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1208",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-19-db29334fae4f9e7e776e3fbcd4cb3b9022a7efc02dafa3af5eaded7154d183ba.jpg",
+    "options": [
+      {
+        "text": "Γενικά, όρια ταχύτητας.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ανώτατο όριο ταχύτητας ανά λωρίδα κυκλοφορίας.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ελάχιστο όριο ταχύτητας ανά λωρίδα κυκλοφορίας.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1209",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-20-0efb60773b027e94a77e78cd19353ffeb1d69a78a56c0adbedbdbf05136429d9.jpg",
+    "options": [
+      {
+        "text": "Γενικά, όρια ταχύτητας.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ανώτατο όριο ταχύτητας ανά λωρίδα κυκλοφορίας.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ελάχιστο όριο ταχύτητας ανά λωρίδα κυκλοφορίας.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1210",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-18-90d9a38e5a3fe32414b7d668f9525622ef8bd55e4635572bd924a7aa0480b8d4.jpg",
+    "options": [
+      {
+        "text": "Γενικά, όρια ταχύτητας.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ανώτατο όριο ταχύτητας ανά λωρίδα κυκλοφορίας.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ελάχιστο όριο ταχύτητας ανά λωρίδα κυκλοφορίας.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1211",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-23-6b7cb96f75e1479177d326626975c11bb8b7ddd0b65184f6e911efdd93c468e0.jpg",
+    "options": [
+      {
+        "text": "Αναγγελία προσεγγίσεως σε ανισόπεδο κόμβο αυτοκινητόδρομου.",
+        "isCorrect": false
+      },
+      {
+        "text": "Κατεύθυνση εισόδου στον αυτοκινητόδρομο.",
+        "isCorrect": true
+      },
+      {
+        "text": "Κατεύθυνση εξόδου από αυτοκινητόδρομο.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1212",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-21-19fc06b28421bce2946b7937cad9d2e82f06f377ab02d488ed874a20b04e3392.jpg",
+    "options": [
+      {
+        "text": "Αναγγελία προσεγγίσεως σε ανισόπεδο κόμβο αυτοκινητόδρομου.",
+        "isCorrect": true
+      },
+      {
+        "text": "Κατεύθυνση εισόδου στον αυτοκινητόδρομο.",
+        "isCorrect": false
+      },
+      {
+        "text": "Κατεύθυνση εξόδου από αυτοκινητόδρομο.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1213",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-22-c9b61da4b43b5bc4164fff549cdf59e0441e5e5490b6ad242f1cfc87ae638123.jpg",
+    "options": [
+      {
+        "text": "Αναγγελία προσεγγίσεως σε ανισόπεδο κόμβο αυτοκινητόδρομου.",
+        "isCorrect": false
+      },
+      {
+        "text": "Κατεύθυνση εισόδου στον αυτοκινητόδρομο.",
+        "isCorrect": false
+      },
+      {
+        "text": "Κατεύθυνση εξόδου από αυτοκινητόδρομο.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1214",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-06-73b9905a12d9d451f30dad6086a829d9d0fb7e43bb97f5a45fa64aad4e471172.jpg",
+    "options": [
+      {
+        "text": "Διασταύρωση με οδό προτεραιότητας.",
+        "isCorrect": false
+      },
+      {
+        "text": "Διακλάδωση με κάθετη οδό δεξιά, επί της οποίας οι κινούμενοι οφείλουν να παραχωρήσουν προτεραιότητα.",
+        "isCorrect": false
+      },
+      {
+        "text": "Διασταύρωση, όπου ισχύει η από δεξιά προτεραιότητα.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1215",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-07-3527ac063a0a85b31ce7e0a6fafd51684a82b5f2459e57164d49d9e4145bfa4d.jpg",
+    "options": [
+      {
+        "text": "Διασταύρωση με οδό προτεραιότητας.",
+        "isCorrect": false
+      },
+      {
+        "text": "Διακλάδωση με κάθετη οδό δεξιά, επί της οποίας οι κινούμενοι οφείλουν να παραχωρήσουν προτεραιότητα.",
+        "isCorrect": true
+      },
+      {
+        "text": "Διασταύρωση, όπου ισχύει η από δεξιά προτεραιότητα.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1216",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-24-adb2845714d8d533ed7a3229bae5df0da9f89376d2747d40b5a7256ba2ae9bd6.jpg",
+    "options": [
+      {
+        "text": "Τέλος οδού προτεραιότητας.",
+        "isCorrect": false
+      },
+      {
+        "text": "Οδός προτεραιότητας.",
+        "isCorrect": false
+      },
+      {
+        "text": "Υποχρεωτική παραχώρηση προτεραιότητας.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1217",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-25-f85e7062d15fa50c9119841a0af630ea45f82f916f46339768f0271d4573c4a6.jpg",
+    "options": [
+      {
+        "text": "Τέλος οδού προτεραιότητας.",
+        "isCorrect": false
+      },
+      {
+        "text": "Οδός προτεραιότητας.",
+        "isCorrect": true
+      },
+      {
+        "text": "Υποχρεωτική παραχώρηση προτεραιότητας.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1218",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-26-22eb3fd2d443905ee3f43fa63c0479b09b38810f98a11262fe5b9ca19b6c56dd.jpg",
+    "options": [
+      {
+        "text": "Τέλος οδού προτεραιότητας.",
+        "isCorrect": true
+      },
+      {
+        "text": "Οδός προτεραιότητας.",
+        "isCorrect": false
+      },
+      {
+        "text": "Υποχρεωτική παραχώρηση προτεραιότητας.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1219",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-01-b8db9336a1432c704c4fa76c6affb231450a8fbc47e4d30ea99f146c5b2150f2.jpg",
+    "options": [
+      {
+        "text": "Υποχρεωτική διέλευση μόνο από τη δεξιά πλευρά της νησίδας ή του εμποδίου.",
+        "isCorrect": false
+      },
+      {
+        "text": "Υποχρεωτική κατεύθυνση πορείας με δεξιά στροφή.",
+        "isCorrect": false
+      },
+      {
+        "text": "Επικίνδυνη δεξιά στροφή.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1220",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-30-cfda21a6167250dfc1038682c54e4c58d40b4020aa1627117a6013abfd5ff4f3.jpg",
+    "options": [
+      {
+        "text": "Υποχρεωτική διέλευση μόνο από τη δεξιά πλευρά της νησίδας ή του εμποδίου.",
+        "isCorrect": false
+      },
+      {
+        "text": "Υποχρεωτική κατεύθυνση πορείας με δεξιά στροφή.",
+        "isCorrect": true
+      },
+      {
+        "text": "Επικίνδυνη δεξιά στροφή.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1221",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-31-f5eed4303432f9dbe06817cb27893131bebbb9fc41a603401320bc3748d6b2a1.jpg",
+    "options": [
+      {
+        "text": "Υποχρεωτική διέλευση μόνο από τη δεξιά πλευρά της νησίδας ή του εμποδίου.",
+        "isCorrect": true
+      },
+      {
+        "text": "Υποχρεωτική κατεύθυνση πορείας με δεξιά στροφή.",
+        "isCorrect": false
+      },
+      {
+        "text": "Επικίνδυνη δεξιά στροφή.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1222",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-02-a9f8a199451f104ad09b02f19918533ca19dc429145f18dc1224ef228ac9e4eb.jpg",
+    "options": [
+      {
+        "text": "Επικίνδυνες δύο αντίρροπες ή διαδοχικές (συνεχείς) στροφές, εκ των οποίων η πρώτη δεξιά.",
+        "isCorrect": false
+      },
+      {
+        "text": "Επικίνδυνες δύο αντίρροπες ή διαδοχικές (συνεχείς) στροφές εκ των οποίων η πρώτη αριστερά.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ολισθηρό οδόστρωμα.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1223",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-03-968b4b6e3d1e4a40a02ae419e8c905be1a9266823065285f520b2d62a52f02dd.jpg",
+    "options": [
+      {
+        "text": "Επικίνδυνες δύο αντίρροπες ή διαδοχικές (συνεχείς) στροφές, εκ των οποίων η πρώτη δεξιά.",
+        "isCorrect": true
+      },
+      {
+        "text": "Επικίνδυνες δύο αντίρροπες ή διαδοχικές (συνεχείς) στροφές, εκ των οποίων η πρώτη αριστερά.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ολισθηρό οδόστρωμα.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1224",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-04-73c76dfd2854e42a65b8ae76c20d59862341ff36405a075a7b73796d4848881c.jpg",
+    "options": [
+      {
+        "text": "Επικίνδυνες δύο αντίρροπες ή διαδοχικές (συνεχείς) στροφές, εκ των οποίων η πρώτη δεξιά.",
+        "isCorrect": false
+      },
+      {
+        "text": "Επικίνδυνες δύο αντίρροπες ή διαδοχικές (συνεχείς) στροφές, εκ των οποίων η πρώτη αριστερά.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ολισθηρό οδόστρωμα.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  },
+  {
+    "id": "1225",
+    "text": "Ποια είναι η σημασία του σήματος αυτού:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/b-34-490d5a44c82724d153b7c551d7c98dd1353622ac5204ad76e8a46bee02e1e4f2.jpg",
+    "options": [
+      {
+        "text": "Οδός που επιτρέπεται η κυκλοφορία όλων των οχημάτων εκτός λεωφορείων ή τρόλεϊ.",
+        "isCorrect": false
+      },
+      {
+        "text": "Προσέγγιση σε στάση λεωφορείων ή τρόλεϊ.",
+        "isCorrect": false
+      },
+      {
+        "text": "Αποκλειστική διέλευση λεωφορείων ή τρόλεϊ.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΗΜΑΝΣΗ",
+    "vehicleType": "Unknown"
+  }
+]

@@ -1,0 +1,862 @@
+[
+  {
+    "id": "429",
+    "text": "Εάν προτίθεσθε να σταματήσετε εδώ για λίγα λεπτά, έχετε δικαίωμα να το πράξετε:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/h01-58aaafee23263615ca3212bbda71306dc17ca9f4c9988442eea970531ad3a4d3.jpg",
+    "options": [
+      {
+        "text": "ΟΧΙ",
+        "isCorrect": true
+      },
+      {
+        "text": "ΝΑΙ",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Δεν μπορείτε να σταματήσετε εδώ για λίγα λεπτά, σε γέφυρες απαγορεύεται η στάση και η στάθμευση.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-1-8efca6de60b3e718e6c9fb8da61a5c7f825903dc07ca87a2e4f751892ede0adc.gif"
+  },
+  {
+    "id": "430",
+    "text": "Καμμία πινακίδα δεν σας απαγορεύει να σταθμεύσετε. Μπορείτε να σταθμεύσετε έτσι:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/h02-453bfadf6c5a20f18905170289bbb6b1c73c8819e1fb6fc5d6bd83dc40c2dd76.jpg",
+    "options": [
+      {
+        "text": "ΟΧΙ",
+        "isCorrect": true
+      },
+      {
+        "text": "ΝΑΙ",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Απαγορεύεται η στάθμευση επάνω στις διαβάσεις πεζών.  Επιτρέπεται η στάθμευση σε απόσταση μεγαλύτερη των 5 m από τη διάβαση.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-2-18b9fd3eac956857cb5d8824f69353687022c4e6d04121c7e7ad71209e29e5a1.gif"
+  },
+  {
+    "id": "431",
+    "text": "Όταν αφήνετε το όχημά σας κατά μήκος του πεζοδρομίου, όσο χρόνο χρειάζεστε για να φορτώσετε ή ξεφορτώσετε τις αποσκευές σας:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/h03-a3c19ced042e3aad9492041b6cc7fbf88c50946ee90d2c719ff4f942f942cb17.jpg",
+    "options": [
+      {
+        "text": "Πρόκειται για στάθμευση.",
+        "isCorrect": false
+      },
+      {
+        "text": "Πρόκειται για μια στάση.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Όταν είσθε εκεί και φορτώνετε η ξεφορτώνετε αποσκευές και επιβάτες πρόκειται για στάση.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-3-62b61d9e6b405048a5e6f8e72832a6e6cf99c87c645d8e95e7999bf2044568aa.gif"
+  },
+  {
+    "id": "432",
+    "text": "Η στάση σε αυτό το σημείο:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/h04-bd60e1d2492e73a065496ba39c8acb2b4dcd99567ea2b15c9d09a6d7a1d0fc6f.jpg",
+    "options": [
+      {
+        "text": "Είναι επικίνδυνη.",
+        "isCorrect": true
+      },
+      {
+        "text": "Δεν συνιστάται.",
+        "isCorrect": false
+      },
+      {
+        "text": "Είναι αποδεκτή αν είναι σύντομη.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Απαγορεύεται η στάση και η στάθμευση σε στροφές. Είναι επικίνδυνη γιατί εμποδίζει την ορατότητα των άλλων οδηγών.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-4-6fe884ea5691585c38a136e8ed960555eab73c136aa6fd07d8cc0e17d8856bf3.gif"
+  },
+  {
+    "id": "433",
+    "text": "Μπορείτε να σταθμεύσετε κατά μήκος αυτού του πεζοδρομίου το μήνα Απρίλιο:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/h08-3e5702f7cf5a31fe79d35f9e5ee13c7224e1be7150f7649e7998e811ea827acf.jpg",
+    "options": [
+      {
+        "text": "ΟΧΙ",
+        "isCorrect": false
+      },
+      {
+        "text": "ΝΑΙ",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Ναι, μπορείτε να σταθμεύσετε από την πλευρά του δρόμου που βρίσκεται η πινακίδα. Ο Απρίλιος είναι ο τέταρτος μήνας του έτους, επομένως διπλός μήνας (το 4 είναι ζυγός αριθμός, δηλαδή διπλός). Η πινακίδα απαγορεύει τη στάθμευση στους μονούς μήνες. ",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-8-60ab326ae0aebf028eab91adaed434e65b69028cba2a07eb41aa92220142752f.gif"
+  },
+  {
+    "id": "434",
+    "text": "Μπορείτε να σταθμεύσετε αμέσως δεξιά της πινακίδας σε παράταξη (κάθετα στο πεζοδρόμιο) και γιατί:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/h10-10110620af7bbaf1f289ec2a185e88c4dd99b46040f76eec3a9607e4a5c5abf9.jpg",
+    "options": [
+      {
+        "text": "Ναι, διότι απαγορεύεται η στάθμευση μετά από 10 m από αυτήν.",
+        "isCorrect": false
+      },
+      {
+        "text": "Όχι, διότι απαγορεύεται η στάθμευση σε απόσταση 10 m από αυτήν.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Δεν μπορείτε να σταθμεύσετε αμέσως δεξιά της πινακίδας, διότι απαγορεύεται η στάθμευση σε απόσταση 10 m από αυτήν.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-10-beb11e4af71ffc0a86b356cc6b5c723d6916475f999c5d21fbb32b7e7027a9c7.gif"
+  },
+  {
+    "id": "435",
+    "text": "Η στάση σε αυτό το μέρος:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/h11-0f0bfce5d9620fdafeeeb35f63eb4509219d89cc6f39c9b9d06ea54ae1d187e9.jpg",
+    "options": [
+      {
+        "text": "Είναι επικίνδυνη.",
+        "isCorrect": true
+      },
+      {
+        "text": "Δεν συνιστάται.",
+        "isCorrect": false
+      },
+      {
+        "text": "Είναι αποδεκτή εάν είναι σύντομη.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Η στάση σε αυτό το μέρος είναι επικίνδυνη. Το όριο 120  σημαίνει αυτοκινητόδρομος, διότι ο αμέσως κατώτερος δρόμος ο ταχείας κυκλοφορίας έχει όριο ταχύτητας 110.  Επομένως το όχημα είναι στη λωρίδα έκτακτης ανάγκης, και δεν έχει  ούτε αναμμένα τα αλάρμ, ούτε το τρίγωνο στα 100 m πίσω.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-11-563478b16dec541945e771f1b83f060b41ecd3bce051fc128609270f56859dbb.gif"
+  },
+  {
+    "id": "436",
+    "text": "Η στάση σε αυτό το σημείο:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/h12-89e43fd48e1b2bb193818af2014f166b1388898275ab873509462a6e2188234e.jpg",
+    "options": [
+      {
+        "text": "Δεν συνιστάται.",
+        "isCorrect": false
+      },
+      {
+        "text": "Είναι επικίνδυνη.",
+        "isCorrect": true
+      },
+      {
+        "text": "Είναι αποδεκτή εάν είναι σύντομη.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Η στάση σε αυτό το σημείο είναι επικίνδυνη. Το όχημα έπρεπε να κάνει στάση  πριν από την πινακίδα που σημαίνει κίνδυνο από φυλασσόμενη σιδηροδρομική γραμμή.\r\n",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-12-0a16a33702092555e43e6d3c5468f48ba5c8b07fb3195b05bd08a581c1e38617.gif"
+  },
+  {
+    "id": "437",
+    "text": "Αυτό το όχημα βρίσκεται σε στάθμευση:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/h13-16f2de5d7410481b09a5851fda7c95f9baa0fc63f381d8398516e1666dc56d51.jpg",
+    "options": [
+      {
+        "text": "Απαγορευμένη.",
+        "isCorrect": false
+      },
+      {
+        "text": "Επιτρεπόμενη.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Στο έρεισμα επιτρέπεται η στάθμευση.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-13-04c9f2ebce0c289c368e6e767f75365c4b3b2be5c1ffb54695bd0398d0ebb97c.gif"
+  },
+  {
+    "id": "438",
+    "text": "Το Ι.Χ. αυτοκίνητο, που έχει σταματήσει στα δεξιά του οδοστρώματος έχει παρανομήσει:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/h15-da7e46bb2156d9d15d26267ecfc9153a020a5557e92cd3e4763f7051014212c8.jpg",
+    "options": [
+      {
+        "text": "ΟΧΙ",
+        "isCorrect": false
+      },
+      {
+        "text": "ΝΑΙ",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Το Ι.Χ. αυτοκίνητο έχει παρανομήσει διότι από την πινακίδα και μετά απαγορεύεται η στάση και η στάθμευση.  Το επισημαίνει και η πρόσθετη πινακίδα.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-15-0ee00e49362dee8e76193c68b6774563186ade6879313caa77679a2d9ef4166c.gif"
+  },
+  {
+    "id": "439",
+    "text": "Εάν το όχημά σας έχει σταθμεύσει κατ' αυτόν τον τρόπο, τα φώτα θέσεως πρέπει να είναι αναμμένα:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/h16-fa5212ed33b3192b775cace6c589aa89890fb315424358c78823d1b5fef8b6ca.jpg",
+    "options": [
+      {
+        "text": "Συνιστώνται.",
+        "isCorrect": false
+      },
+      {
+        "text": "Είναι υποχρεωτικά.",
+        "isCorrect": true
+      },
+      {
+        "text": "Είναι προαιρετικά.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Υποχρεωτικά πρέπει να είναι αναμμένα τα φώτα θέσεως, διαφορετικά δεν θα ήταν διακριτό το όχημα από τους άλλους οδηγούς στο σημείο που βρίσκεται.\r\n",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-16-b7be72d826ed36e8954afdf4d699ff45358279e0fbbdb5b48b46a8c96ab8031f.gif"
+  },
+  {
+    "id": "440",
+    "text": "Σε ποιο σημείο του οδοστρώματος επιτρέπεται η στάθμευση:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/h18-c0ff8a1e20235f3e1e137af17c82a7e5a917ff297e8877ad411c0967d5600046.jpg",
+    "options": [
+      {
+        "text": "Εκτός του μήκους που ορίζουν οι πινακίδες.",
+        "isCorrect": true
+      },
+      {
+        "text": "Μεταξύ των πινακίδων.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Οι πρόσθετες πινακίδες ορίζουν την αρχή και το τέλος του χώρου που απαγορεύεται η στάση και η στάθμευση.  Η στάθμευση επιτρέπεται,  εκτός του μήκους που ορίζουν οι πινακίδες.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-18-465f0ba3878c429c47fd50f73fcae59a5268d83e23e8ffed4f8ba42755c80149.gif"
+  },
+  {
+    "id": "441",
+    "text": "Καμμία πινακίδα δεν σας απαγορεύει να σταθμεύσετε. Μπορείτε να σταθμεύσετε έτσι:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/h19-3bc4a054122c2b3560551d2fafaa9cfcb26c1861d443470e7842ba3969a21667.jpg",
+    "options": [
+      {
+        "text": "ΟΧΙ",
+        "isCorrect": true
+      },
+      {
+        "text": "ΝΑΙ",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Δεν μπορείτε να σταθμεύσετε έτσι, διότι γενικώς απαγορεύεται η στάθμευση στα πεζοδρόμια, εκτός εάν υπάρχει ειδική σήμανση που σας το επιτρέπει.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-19-2c972e41842d7a76deb1d98bbdc09f8696c85b3567f4761139aa26e368ca8618.gif"
+  },
+  {
+    "id": "442",
+    "text": "Καμμιά κίτρινη γραμμή δεν υπάρχει στο πεζοδρόμιο. Το επιβατηγό αυτοκίνητο είναι σταθμευμένο καλά:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/h20-47d33f7e7ea8623c3c57bfdfd112ff093c6bfbcff51ed34864c68fd474e8d252.jpg",
+    "options": [
+      {
+        "text": "ΟΧΙ",
+        "isCorrect": true
+      },
+      {
+        "text": "ΝΑΙ",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": " Το επιβατηγό αυτοκίνητο δεν είναι σταθμευμένο καλά διότι απαγορεύεται η στάθμευση στις στροφές, και για να προσπεράσει  ένα όχημα το σταθμευμένο, θα υποχρεωθεί να υπερβεί την συνεχόμενη λευκή γραμμή.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-20-0236fd28839befda337f3405c3af3380ff20e5343e8628264a0277cf5610d840.gif"
+  },
+  {
+    "id": "443",
+    "text": "Το αυτοκίνητο είναι σταθμευμένο καλά:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/h21-98f4e3fb69a3ac5debf783cdf9e31421e345f53f9e411c828ec53f1aa6024057.jpg",
+    "options": [
+      {
+        "text": "ΟΧΙ",
+        "isCorrect": true
+      },
+      {
+        "text": "ΝΑΙ",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": " Το  αυτοκίνητο δεν είναι σταθμευμένο καλά διότι και χώρος δεν υπάρχει στο έρεισμα για στάθμευση και τη συνεχόμενη λευκή γραμμή πρέπει να υπερβαίνουν τα οχήματα που προσπερνούν το σταθμευμένο.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-21-f2d19ea0bd3572b0b00b0bb6c792882731d6bed72eb43e050a7b13e5904b55c2.gif"
+  },
+  {
+    "id": "444",
+    "text": "Σκοπεύετε να σταθμεύσετε στην οδό της φωτογραφίας κάποια μέρα του Φεβρουαρίου. Ποια πλευρά του οδοστρώματος θα επιλέξετε:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/h22-d671e268c6b6ab75c18471c3edd4cf1ce500d4ff69962d844c35ed65c91a54b6.jpg",
+    "options": [
+      {
+        "text": "Τη δεξιά.",
+        "isCorrect": false
+      },
+      {
+        "text": "Την αριστερή.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Ο Φεβρουάριος είναι ο δεύτερος μήνας του έτους, επομένως διπλός μήνας (το 2 είναι ζυγός αριθμός, δηλαδή διπλός). Δεξιά απαγορεύεται η στάθμευση στους διπλούς μήνες, Επομένως στάθμευση στην αριστερή πλευρά του οδοστρώματος.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-22-d440e37cd3e5a698250c5b2a3fdbcda938c35c5cf2a7e0b7dee8b39f17f8a1d4.gif"
+  },
+  {
+    "id": "445",
+    "text": "Σε ποιο σημείο μπορείτε να σταθμεύσετε:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/h23-3dad5567d57feb11dab393a6bf94e20f76074b3f8ddaab7a9768cfa14bbc5bf9.jpg",
+    "options": [
+      {
+        "text": "Σε οποιαδήποτε θέση εκτός μπροστά από το στέγαστρο.",
+        "isCorrect": false
+      },
+      {
+        "text": "Σε απόσταση μεγαλύτερη των 5 m από τη στάση του λεωφορείου.",
+        "isCorrect": false
+      },
+      {
+        "text": "Σε απόσταση μεγαλύτερη των 12 m από τη στάση του λεωφορείου.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Σε απόσταση μεγαλύτερη των 12 m από τη στάση του λεωφορείου. ",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-23-4c6e218c8ba4d7f861b323b2b78c67349ecfad5599c4e615865bb2725c25b70c.gif"
+  },
+  {
+    "id": "446",
+    "text": "Η απόσταση του επιβατηγού αυτοκινήτου από το σηματοδότη της φωτογραφίας είναι 15 m. Επιτρέπεται η στάθμευσή του στο σημείο στο οποίο βρίσκεται:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/h24-779cb20aef3784abcf27747f12869f0f0038f43585f929497ecd52df1e60d7b7.jpg",
+    "options": [
+      {
+        "text": "ΟΧΙ",
+        "isCorrect": true
+      },
+      {
+        "text": "ΝΑΙ",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Δεν επιτρέπεται η στάθμευση  στο σημείο που βρίσκεται το  αυτοκινήτο. Η απόσταση που επιτρέπεται να σταθμεύσετε από σηματοδότη είναι 20 m",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-24-333145770abfcec1a787865573d5548ed571e198a1a614d1f54058421b9fe8a3.gif"
+  },
+  {
+    "id": "447",
+    "text": "Σκοπεύετε να σταθμεύσετε στην οδό της φωτογραφίας κάποια ημέρα του Ιουλίου. Ποια πλευρά του οδοστρώματος θα επιλέξετε:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/h25-d671e268c6b6ab75c18471c3edd4cf1ce500d4ff69962d844c35ed65c91a54b6.jpg",
+    "options": [
+      {
+        "text": "Τη δεξιά.",
+        "isCorrect": true
+      },
+      {
+        "text": "Την αριστερή.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Ο Ιούλιος είναι ο έβδομος μήνας του έτους, επομένως μονός μήνας (το 7 είναι μονός αριθμός). Δεξιά απαγορεύεται η στάθμευση στους διπλούς μήνες, Επομένως μπορείτε να σταθμεύσετε δεξιά.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-25-7706aeaf3dca6a05d740acf22208847046f8015148e41ba3607e1cb3560e3994.gif"
+  },
+  {
+    "id": "448",
+    "text": "Γιατί δεν μπορείτε να σταματήσετε στο δεξιό άκρο του οδοστρώματος:",
+    "image": "https://www.drivepoint.gr/assets/testdrive/h26-742ad0511974a60b3634df0a022107b252618ad2db79cb6f0a14a3588cf7e3d9.jpg",
+    "options": [
+      {
+        "text": "Γιατί υπάρχει πινακίδα που απαγορεύει τη στάση και τη στάθμευση καθώς και συνεχής κίτρινη γραμμή στο άκρο του οδοστρώματος.",
+        "isCorrect": true
+      },
+      {
+        "text": "Γιατί το οδόστρωμα είναι διπλής κατευθύνσεως.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Δεν μπορείτε να σταματήσετε στο δεξιό άκρο του οδοστρώματος γιατί υπάρχει πινακίδα που απαγορεύει τη στάση και τη στάθμευση καθώς και συνεχής κίτρινη γραμμή στο άκρο του οδοστρώματος που σημαίνει το ίδιο.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-26-dcc76ec4aa35be669f3f0f107a99fe1f7f76435ac24b3133d6ded2b16b248d38.gif"
+  },
+  {
+    "id": "449",
+    "text": "Σε μονόδρομο, εάν το πλάτος της οδού επαρκεί, μπορείτε να σταθμεύσετε και στα αριστερά:",
+    "options": [
+      {
+        "text": "ΟΧΙ",
+        "isCorrect": false
+      },
+      {
+        "text": "ΝΑΙ",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Σε μονόδρομο, μπορείτε να σταθμεύσετε δεξιά και στα αριστερά αρκεί να το επιτρέπει το πλάτος της οδού.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-27-7834e4a724778ad4559adc98c2570d0cc7623ec0277213ce9e4c992498f78d51.gif"
+  },
+  {
+    "id": "450",
+    "text": "Ακινητοποιείται το όχημά σας μπροστά στο ταχυδρομείο για να αγοράσετε γραμματόσημα:",
+    "options": [
+      {
+        "text": "Πρόκειται για στάθμευση.",
+        "isCorrect": true
+      },
+      {
+        "text": "Πρόκειται για μια στάση.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Όταν ακινητοποιείται το όχημά σας το κλειδώσατε και φύγατε, πρόκειται για στάθμευση.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-28-7a27c143e3ce914abc94238bdf6c96c901fc57bd8523a2fa6d29ec44b219a837.gif"
+  },
+  {
+    "id": "451",
+    "text": "Μια συνεχόμενη κίτρινη γραμμή στα άκρα του πεζοδρομίου:",
+    "options": [
+      {
+        "text": "Τονίζει πως απαγορεύεται να σταματάτε και να σταθμεύετε.",
+        "isCorrect": true
+      },
+      {
+        "text": "Καθορίζει την απαγόρευση να σταθμεύετε, αλλά σας επιτρέπει να σταματήσετε μερικά λεπτά.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Η  συνεχής κίτρινη γραμμή στο άκρο του οδοστρώματος απαγορεύει και τη στάση και τη στάθμευση. ",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-29-678cf6b6f08097916369f0b956a0a87ff6d35fdcebd49780f42a3d996a1d802d.gif"
+  },
+  {
+    "id": "452",
+    "text": "Σε πόση απόσταση από στάση λεωφορείων επιτρέπεται να σταθμεύσετε το όχημά σας:",
+    "options": [
+      {
+        "text": "Σε απόσταση μεγαλύτερη των 12 m.",
+        "isCorrect": true
+      },
+      {
+        "text": "Σε απόσταση μεγαλύτερη των 10 m.",
+        "isCorrect": false
+      },
+      {
+        "text": "Σε απόσταση μεγαλύτερη των 5 m.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Από στάση λεωφορείων επιτρέπεται να σταθμεύσετε το όχημά σας σε απόσταση μεγαλύτερη των 12 m.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-30-d9e9b02e2893315507d3a4ac02d39983078d689e4f275237732b635c8edf9155.gif"
+  },
+  {
+    "id": "453",
+    "text": "Όταν σταθμεύετε το επιβατηγό αυτοκίνητό σας τη νύκτα σε δρόμο που δεν φωτίζεται αρκετά, ποια φώτα του πρέπει να αφήσετε αναμμένα:",
+    "options": [
+      {
+        "text": "Τα εμπρός και πίσω φώτα θέσεως (μικρά) ή το φως σταθμεύσεως που βρίσκεται προς το μέρος της κυκλοφορίας.",
+        "isCorrect": true
+      },
+      {
+        "text": "Τα πίσω φώτα θέσεως (μικρά).",
+        "isCorrect": false
+      },
+      {
+        "text": "Το φως της πίσω πινακίδας του αριθμού κυκλοφορίας.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Υποχρεωτικά πρέπει να είναι αναμμένα τα εμπρός και πίσω φώτα θέσεως (μικρά) ή το φως σταθμεύσεως που βρίσκεται προς το μέρος της κυκλοφορίας, διαφορετικά δεν θα ήταν διακριτό το όχημα από τους άλλους οδηγούς στο σημείο που βρίσκεται.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-31-8918eaec33c6fa155bb94ab5ffa21b6f035a8085cc7afaf161989f717de2fdf9.gif"
+  },
+  {
+    "id": "454",
+    "text": "Σε πόση απόσταση από διασταύρωση επιτρέπεται να σταθμεύσετε το όχημά σας:",
+    "options": [
+      {
+        "text": "Σε απόσταση 15 m τουλάχιστον από το κέντρο της διασταυρώσεως.",
+        "isCorrect": false
+      },
+      {
+        "text": "Σε απόσταση μεγαλύτερη των 10 m από τη νοητή προέκταση της πλησιέστερης οριογραμμής του κάθετου οδοστρώματος.",
+        "isCorrect": true
+      },
+      {
+        "text": "Σε απόσταση 1 m τουλάχιστον από τη διάβαση πεζών.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Από διασταύρωση επιτρέπεται να σταθμεύσετε σε απόσταση μεγαλύτερη των 10 m από τη νοητή προέκταση της πλησιέστερης οριογραμμής του κάθετου οδοστρώματος. ",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-32-ab1ca7d7580fe92fb07cf34344027b3e77fb584a7418835683d079e874c50d3b.gif"
+  },
+  {
+    "id": "455",
+    "text": "Σε πόση απόσταση από φωτεινό σηματοδότη επιτρέπεται να σταθμεύσετε το όχημά σας:",
+    "options": [
+      {
+        "text": "Σε απόσταση μεγαλύτερη των 10 m.",
+        "isCorrect": false
+      },
+      {
+        "text": "Σε απόσταση μεγαλύτερη των 5 m.",
+        "isCorrect": false
+      },
+      {
+        "text": "Σε απόσταση μεγαλύτερη των 20 m.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": " Από φωτεινό σηματοδότη επιτρέπεται να σταθμεύσετε το όχημά σας σε απόσταση μεγαλύτερη των 20 m.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-34-a3f4e1ac4068e9919706524a14c7738acd41116859c6aa80045250d30fa5f936.gif"
+  },
+  {
+    "id": "456",
+    "text": "Σε πόση απόσταση πριν και μετά από ισόπεδη σιδηροδρομική διάβαση επιτρέπεται να σταθμεύσετε το όχημά σας:",
+    "options": [
+      {
+        "text": "Σε απόσταση μεγαλύτερη των 5 m αν η διάβαση φυλάσσεται και των 20 m αν δεν φυλάσσεται.",
+        "isCorrect": false
+      },
+      {
+        "text": "Σε απόσταση μεγαλύτερη των 15 m.",
+        "isCorrect": true
+      },
+      {
+        "text": "Σε απόσταση μεγαλύτερη των 10 m.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Από ισόπεδη σιδηροδρομική διάβαση επιτρέπεται να σταθμεύσετε σε απόσταση μεγαλύτερη των 15 m.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-35-6279fdb0fb57663bb1c66096a55d06e8b2ae4760227d156905c7204a674b3e8a.gif"
+  },
+  {
+    "id": "457",
+    "text": "Σε ποια περίπτωση επιτρέπεται η στάθμευση αυτοκινήτου παραπλεύρως άλλου κανονικά σταθμευμένου κατά μήκος του δρόμου:",
+    "options": [
+      {
+        "text": "Μόνο αν το επιτρέπει ειδική σήμανση.",
+        "isCorrect": true
+      },
+      {
+        "text": "Όταν ο δρόμος δεν έχει μεγάλη κίνηση.",
+        "isCorrect": false
+      },
+      {
+        "text": "Όταν ο δρόμος είναι μιας κατευθύνσεως (μονόδρομος) και έχει τρεις τουλάχιστον λωρίδες κυκλοφορίας.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Στάθμευση αυτοκινήτου παραπλεύρως άλλου κανονικά σταθμευμένου, επιτρέπεται μόνο αν υπάρχει ειδική σήμανση.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-36-d27a4dcdc05d122ed5831aa7f0b0b99e9d5d3587cff3bd4f46eab217aadcc878.gif"
+  },
+  {
+    "id": "458",
+    "text": "Σε ποια απόσταση από πυροσβεστικό κρουνό επιτρέπεται να σταθμεύσετε το όχημά σας:",
+    "options": [
+      {
+        "text": "Δεν υπάρχει περιορισμός.",
+        "isCorrect": false
+      },
+      {
+        "text": "Σε απόσταση μεγαλύτερη των 5 m.",
+        "isCorrect": true
+      },
+      {
+        "text": "Σε απόσταση μεγαλύτερη των 2 m.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Από πυροσβεστικό κρουνό επιτρέπεται να σταθμεύσετε το όχημά σας σε απόσταση μεγαλύτερη των 5 m.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-37-530a9bd6838c1f4371f0693b924643790b110bb443caba6013b1f894d351516c.gif"
+  },
+  {
+    "id": "459",
+    "text": "Σε ποια θέση σε μονόδρομο επιτρέπεται η στάθμευση οχημάτων, αν δεν υπάρχει απαγορευτική πινακίδα:",
+    "options": [
+      {
+        "text": "Και στην αριστερή και στη δεξιά άκρη του δρόμου.",
+        "isCorrect": true
+      },
+      {
+        "text": "Μόνο στην αριστερή άκρη του δρόμου.",
+        "isCorrect": false
+      },
+      {
+        "text": "Μόνο στη δεξιά άκρη του δρόμου.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Σε μονόδρομο επιτρέπεται η στάθμευση και στην αριστερή και στη δεξιά άκρη του δρόμου, αρκεί να το επιτρέπει το πλάτος του δρόμου.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-38-849e50162f46d3e7b06ab5e8540527aa86154bfde12d863b10ad5c56f2916eed.gif"
+  },
+  {
+    "id": "460",
+    "text": "Σε ποια περίπτωση επιτρέπεται να σταθμεύσετε το όχημά σας επάνω σε πεζοδρόμιο:",
+    "options": [
+      {
+        "text": "Μόνο όταν ειδική σήμανση το επιτρέπει .",
+        "isCorrect": true
+      },
+      {
+        "text": "Όταν το τμήμα του πεζοδρομίου όπου θα σταθμεύσετε βρίσκεται μπροστά στο σπίτι σας ή το κατάστημά σας.",
+        "isCorrect": false
+      },
+      {
+        "text": "Όταν το πλάτος του πεζοδρομίου είναι μεγαλύτερο των 3,5 m.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Επάνω στα πεζοδρόμια απαγορεύεται η στάθμευση εκτός εάν υπάρχει ειδική σήμανση που το επιτρέπει.\r\n",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-39-5fecc8a24b0160cf6a791314bee1073939e93ed193965e889dee016725f5d758.gif"
+  },
+  {
+    "id": "461",
+    "text": "Σε ποια από τις ακόλουθες θέσεις απαγορεύεται να σταθμεύσετε το όχημά σας:",
+    "options": [
+      {
+        "text": "Σε απόσταση μεγαλύτερη των 12 m από τις στάσεις των λεωφορείων.",
+        "isCorrect": false
+      },
+      {
+        "text": "Πάνω σε καμπύλες δρόμων.",
+        "isCorrect": true
+      },
+      {
+        "text": "Σε απόσταση μεγαλύτερη των 20 m από φωτεινούς σηματοδότες.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Πάνω σε καμπύλες δρόμων απαγορεύεται η στάθμευση, διότι δεν υπάρχει ορατότητα.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-40-3e1a4b14b37061b2890bf93c163d7ce38cbc3d0a5eada4e41d45c8dffc43dbef.gif"
+  },
+  {
+    "id": "462",
+    "text": "Ποια υποχρέωση έχετε όταν σταθμεύετε το αυτοκίνητό σας σε δρόμο που δεν έχει πεζοδρόμια:",
+    "options": [
+      {
+        "text": "Να αφήνετε ελεύθερο χώρο, πλάτους 1 m τουλάχιστον, για να περνούν οι πεζοί.",
+        "isCorrect": true
+      },
+      {
+        "text": "Να τοποθετείτε το αυτοκίνητο κατά το δυνατόν πλησιέστερα στην οικοδομική γραμμή.",
+        "isCorrect": false
+      },
+      {
+        "text": "Να μη σταθμεύετε μπροστά σε εισόδους σπιτιών ή καταστημάτων.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Έχετε υποχρέωση εάν δεν υπάρχουν πεζοδρόμια, να αφήνετε ελεύθερο χώρο πλάτους 1 m τουλάχιστον, για να περνούν οι πεζοί. ",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-41-94e98b95d06f5d5a4e00cc6c8bf7cf4126d70c95079cfc9bc62c2474733d12b0.gif"
+  },
+  {
+    "id": "463",
+    "text": "Για να ξεκινήσετε με ασφάλεια από μια θέση σταθμεύσεως, σαν τελευταία ενέργεια πάντοτε να:",
+    "options": [
+      {
+        "text": "Δίνετε σήμα με το χέρι.",
+        "isCorrect": false
+      },
+      {
+        "text": "Κοιτάζετε λοξά πάνω από τον ώμο σας.",
+        "isCorrect": true
+      },
+      {
+        "text": "Χρησιμοποιείτε τα φλας.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Για να ξεκινήσετε με ασφάλεια από μια θέση σταθμεύσεως, να κοιτάζετε λοξά πάνω από τον ώμο σας. Έτσι βλέπετε και αυτά που δεν πιάνουν οι καθρέπτες, στις νεκρές γωνίες.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-43-a093e12c4037ac781409ace322f812d583c256fa554813445b17fee247837575.gif"
+  },
+  {
+    "id": "464",
+    "text": "Θέλετε να αφήσετε το όχημά σας σταθμευμένο σε ένα δρόμο. Μπορείτε να αφήσετε τον κινητήρα αναμμένο και σε λειτουργία ώσπου να γυρίσετε:",
+    "options": [
+      {
+        "text": "Σε καμμία απολύτως περίπτωση.",
+        "isCorrect": true
+      },
+      {
+        "text": "Για να φορτίσετε μια αφόρτιστη μπαταρία.",
+        "isCorrect": false
+      },
+      {
+        "text": "Μόνο αν σταθμεύετε για λιγότερο από 5 λεπτά.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Υποθέστε ότι αφήσατε το αυτοκίνητο σταθμευμένο  με τον κινητήρα σε λειτουργία και πήγατε απέναντι στο περίπτερο. Στο περίπτερο ζαλιστήκατε. Ο καλός περιπτεράς κάλεσε ασθενοφόρο και ενώ εσείς είστε στο Νοσοκομείο .......Σε καμμία απολύτως περίπτωση.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-44-638c3b2e03ac2b1fc968409aa1afb9367ee5134324fb99a6de9ca2419357b920.gif"
+  },
+  {
+    "id": "465",
+    "text": "Σταθμεύετε το όχημά σας στην πλευρά ενός δρόμου, με το μπροστινό μέρος σε ανηφορική κλίση. Θα πρέπει να βάλετε χειρόφρενο και να επιλέξετε:",
+    "options": [
+      {
+        "text": "Πρώτη ταχύτητα.",
+        "isCorrect": true
+      },
+      {
+        "text": "Νεκρά.",
+        "isCorrect": false
+      },
+      {
+        "text": "Όπισθεν.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Σταθμεύετε το όχημά σας σε ανηφόρα. Εκτός από το χειρόφρενο που μπλοκάρει συνήθως τους πίσω τροχούς και ο κινητήρας όταν δεν λειτουργεί, συγκρατεί τους τροχούς με μεγάλη ροπή εάν βάλετε την πρώτη ταχύτητα.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-45-63e9446e0b8b63814ff82b36d7aa0b43b387c0ada25288ea80f7972e09329d08.gif"
+  },
+  {
+    "id": "466",
+    "text": "Σταθμεύετε το όχημά σας στην πλευρά ενός δρόμου, με το πίσω μέρος σε ανηφορική κλίση. Θα πρέπει να βάλετε χειρόφρενο και να επιλέξετε:",
+    "options": [
+      {
+        "text": "Πρώτη ταχύτητα.",
+        "isCorrect": false
+      },
+      {
+        "text": "Νεκρά.",
+        "isCorrect": false
+      },
+      {
+        "text": "Όπισθεν.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Σταθμεύετε το όχημά σας στην πλευρά ενός δρόμου, με το πίσω μέρος σε ανηφορική κλίση, επομένως σε κατηφόρα. Εκτός από το χειρόφρενο που μπλοκάρει συνήθως τους πίσω τροχούς και ο κινητήρας όταν δεν λειτουργεί, συγκρατεί τους τροχούς με μεγάλη ροπή εάν βάλετε την όπισθεν.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-47-2051fbbabbf8cdf644d40f22337d7ae301abab7d364bdb7f46096412dc6e9094.gif"
+  },
+  {
+    "id": "467",
+    "text": "Σε ένα παρκόμετρο υπάρχει ακόμη χρόνος για στάθμευση που περίσσεψε από το αυτοκίνητο που στάθμευσε ενωρίτερα. Πώς συμπεριφέρεσθε εάν θέλετε να σταθμεύσετε εκεί:",
+    "options": [
+      {
+        "text": "Μπορείτε να χρησιμοποιήσετε τον υπόλοιπο χρόνο, χωρίς να επέμβετε εκ νέου στο ρολόι.",
+        "isCorrect": true
+      },
+      {
+        "text": "Δεν επιτρέπεται να χρησιμοποιήσετε τον υπόλοιπο χρόνο.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Σε ένα παρκόμετρο , ναι μπορείτε να χρησιμοποιήσετε τον υπόλοιπο χρόνο που περίσσεψε, από το αυτοκίνητο που στάθμευσε ενωρίτερα. ",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-50-a4335f0023d78554ab28a471039d1ebf8fc725c6c2b55c7255a7fff3584f7406.gif"
+  },
+  {
+    "id": "468",
+    "text": "Σε ένα δρόμο διπλής κατευθύνσεως δεν απαγορεύεται η στάθμευση δεξιά και αριστερά αυτού, παράλληλα προς τον άξονα του δρόμου. Πού επιτρέπεται να σταθμεύσετε:",
+    "options": [
+      {
+        "text": "Μόνο δεξιά της πορείας σας.",
+        "isCorrect": true
+      },
+      {
+        "text": "Δεξιά και αριστερά της πορείας σας.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Σε ένα δρόμο διπλής κατευθύνσεως, επιτρέπεται να σταθμεύσετε μόνο δεξιά της πορείας σας. Διαφορετικά θα εισέλθετε στο αντίθετο ρεύμα κυκλοφορίας.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-51-43e7b929aa0310fd529214127991c3961ddc996e982dfafd97ab9dd445d9d5bb.gif"
+  },
+  {
+    "id": "469",
+    "text": "Ποια είναι η ελάχιστη απόσταση που πρέπει να αφήσετε όταν σταθμεύετε ή σταματάτε εμπρός από διάβαση πεζών:",
+    "options": [
+      {
+        "text": "12 m.",
+        "isCorrect": false
+      },
+      {
+        "text": "5 m.",
+        "isCorrect": true
+      },
+      {
+        "text": "1 m.",
+        "isCorrect": false
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Η ελάχιστη απόσταση που πρέπει να αφήσετε όταν σταθμεύετε ή σταματάτε εμπρός από διάβαση πεζών, είναι 5 m.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-52-b84d961658ad93a7f9b2ca556b363c36602e93b416b0e152c0e7938cb2f86f6a.gif"
+  },
+  {
+    "id": "470",
+    "text": "Σε ποιες περιπτώσεις συνιστάται να ανάψετε τη νύκτα τα φώτα θέσεως:",
+    "options": [
+      {
+        "text": "Όταν οδηγείτε σε δρόμους με συνεχή και αρκετό φωτισμό.",
+        "isCorrect": false
+      },
+      {
+        "text": "Όταν το όχημα είναι σταθμευμένο εκτός κατοικημένης περιοχής.",
+        "isCorrect": true
+      }
+    ],
+    "category": "ΣΤΑΣΗ",
+    "vehicleType": "αυτοκινητο",
+    "explanation": "Όταν το όχημα είναι σταθμευμένο εκτός κατοικημένης περιοχής, συνιστάται να ανάψετε τη νύκτα τα φώτα θέσεως.",
+    "explanationImage": "https://www.drivepoint.gr/assets/explanations/stasi-53-85cc5b2fe0d2a1fc8c0321e56efc4992af29def94bd640118a7b232444f3df6a.gif"
+  }
+]
